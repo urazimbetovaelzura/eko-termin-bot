@@ -330,12 +330,14 @@ async def start_web_server():
     runner = web.AppRunner(app)
     await runner.setup()
 
-    port = int(os.environ.get("PORT", 10000))
-    site = web.TCPSite(runner, "0.0.0.0", port)
+    site = web.TCPSite(runner, '0.0.0.0', 10000)
     await site.start()
     
 async def main():
-    await start_web_server()
+    await start_web_server()   # <-- ДОБАВИТЬ
+
+    print("BOT ISKE TÚSTI")
+
     await dp.start_polling(bot)
 
 if __name__ == "__main__":
