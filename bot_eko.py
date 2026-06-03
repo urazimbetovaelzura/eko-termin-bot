@@ -349,18 +349,18 @@ async def text_handler(message: Message):
     result = find_term(text)
 
 # Сохраняем в историю любой поисковый запрос
-history[user_id].append(text)
+    history[user_id].append(text)
 
-if result:
-    await message.answer(
-        format_term(result, lang),
-        reply_markup=main_keyboard(lang),
-    )
-else:
-    await message.answer(
-        LANG_TEXTS[lang]["not_found"],
-        reply_markup=main_keyboard(lang),
-    )
+    if result:
+        await message.answer(
+            format_term(result, lang),
+            reply_markup=main_keyboard(lang),
+        )
+    else:
+        await message.answer(
+            LANG_TEXTS[lang]["not_found"],
+            reply_markup=main_keyboard(lang),
+        )
 
 
 # ================== WEB SERVER FOR RENDER ==================
