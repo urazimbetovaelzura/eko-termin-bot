@@ -1,0 +1,1122 @@
+[
+  {
+    "en_term": "Ecology",
+    "en_definition": "Ecology is the branch of biology that studies the relationships between living organisms and their physical environment. It examines how organisms interact with each other and with the abiotic components such as air, water and soil.",
+    "ru_term": "Экология",
+    "ru_definition": "Экология — это раздел биологии, изучающий взаимоотношения живых организмов между собой и с окружающей их средой. Она исследует влияние природных и антропогенных факторов на живые системы.",
+    "uz_term": "Ekologiya",
+    "uz_definition": "Ekologiya — bu tirik organizmlarning bir-biri bilan va ularni o'rab turgan muhit bilan o'zaro munosabatlarini o'rganadigan biologiya fanining bo'limi. U tabiiy va antropogen omillarning tirik tizimlarga ta'sirini tadqiq qiladi.",
+    "qq_term": "Ekologiya",
+    "qq_definition": "Ekologiya — tiri organizmlerdiń bir-biri menen hám olardı qorshap turǵan ortalıq penen óz-ara baylanısların úyrenetuǵın biologiya salası. Ol tábiyǵıy hám antropogen faktorlardıń tiri sistemalarǵa tásirin izertleydi."
+  },
+  {
+    "en_term": "Ecosystem",
+    "en_definition": "An ecosystem is a community of living organisms together with the non-living components of their environment, interacting as a system. Energy flows and nutrient cycles link the biotic and abiotic parts of the ecosystem.",
+    "ru_term": "Экосистема",
+    "ru_definition": "Экосистема — это сообщество живых организмов вместе с неживыми компонентами их среды, взаимодействующих как единое целое. Потоки энергии и круговороты веществ связывают биотические и абиотические части экосистемы.",
+    "uz_term": "Ekotizim",
+    "uz_definition": "Ekotizim — bu tirik organizmlar jamoasi va ularning yashash muhitining jonsiz tarkibiy qismlari bir butun sifatida o'zaro ta'sir qiladigan tizim. Energiya oqimlari va modda aylanishi ekotizimning biotik va abiotik qismlarini bog'laydi.",
+    "qq_term": "Ekosistema",
+    "qq_definition": "Ekosistema — tiri organizmler birlespesi hám olardıń ortalıǵınıń jansız bólekleri birlikte bir pútin sıpatında óz-ara tásir etetuǵın sistema. Energiya aǵımları hám zat aynalısı ekosistemanıń biotik hám abiotik bólimlerin baylanıstıradı."
+  },
+  {
+    "en_term": "Biodiversity",
+    "en_definition": "Biodiversity is the variety and variability of life on Earth, including diversity within species, between species and of ecosystems. High biodiversity strengthens the resilience of natural systems.",
+    "ru_term": "Биоразнообразие",
+    "ru_definition": "Биоразнообразие — это разнообразие форм жизни на Земле, включающее видовое, генетическое и экосистемное разнообразие. Высокий уровень биоразнообразия повышает устойчивость природных систем.",
+    "uz_term": "Biologik xilma-xillik",
+    "uz_definition": "Biologik xilma-xillik — Yerdagi hayot shakllarining xilma-xilligi bo'lib, u tur ichidagi, turlar orasidagi va ekotizimlar xilma-xilligini o'z ichiga oladi. Yuqori biologik xilma-xillik tabiiy tizimlarning barqarorligini oshiradi.",
+    "qq_term": "Biologiyalıq túrli-túrlilik",
+    "qq_definition": "Biologiyalıq túrli-túrlilik — Jer betindegi tirishilik formalarınıń túrli-túrliligi bolıp, ol túr ishindegi, túrler arasındaǵı hám ekosistemalar túrli-túrliligin óz ishine aladı. Joqarı biologiyalıq túrli-túrlilik tábiyǵıy sistemalardıń turaqlılıǵın asıradı."
+  },
+  {
+    "en_term": "Photosynthesis",
+    "en_definition": "Photosynthesis is the process by which green plants, algae and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. Oxygen is released as a by-product.",
+    "ru_term": "Фотосинтез",
+    "ru_definition": "Фотосинтез — это процесс, в ходе которого зелёные растения, водоросли и некоторые бактерии преобразуют энергию света в химическую энергию, запасаемую в глюкозе. Побочным продуктом является кислород.",
+    "uz_term": "Fotosintez",
+    "uz_definition": "Fotosintez — yashil o'simliklar, suvo'tlar va ba'zi bakteriyalar yorug'lik energiyasini glyukozada saqlanadigan kimyoviy energiyaga aylantirish jarayoni. Yon mahsulot sifatida kislorod ajralib chiqadi.",
+    "qq_term": "Fotosintez",
+    "qq_definition": "Fotosintez — jasıl ósimlikler, suw ósimlikleri hám geybir bakteriyalar jaqtılıq energiyasın glyukozada saqlanatuǵın ximiyalıq energiyaǵa aylandıratuǵın process. Janama ónim sıpatında kislorod bólinip shıǵadı."
+  },
+  {
+    "en_term": "Carbon cycle",
+    "en_definition": "The carbon cycle is the biogeochemical cycle by which carbon moves between the atmosphere, oceans, soil and living organisms. It is essential to maintaining the balance of carbon dioxide in the atmosphere.",
+    "ru_term": "Углеродный цикл",
+    "ru_definition": "Углеродный цикл — это биогеохимический круговорот, при котором углерод перемещается между атмосферой, океанами, почвой и живыми организмами. Он необходим для поддержания баланса углекислого газа в атмосфере.",
+    "uz_term": "Uglerod sikli",
+    "uz_definition": "Uglerod sikli — uglerodning atmosfera, okeanlar, tuproq va tirik organizmlar o'rtasida harakatlanishining biogeokimyoviy aylanishi. U atmosferadagi karbonat angidrid muvozanatini saqlash uchun zarur.",
+    "qq_term": "Uglerod aynalısı",
+    "qq_definition": "Uglerod aynalısı — uglerodtıń atmosfera, okeanlar, topıraq hám tiri organizmler arasında qozǵalısınıń biogeoximiyalıq aynalısı. Ol atmosferadaǵı uglekisli gaz teń salmaqlılıǵın saqlap turıw ushın zárúr."
+  },
+  {
+    "en_term": "Greenhouse effect",
+    "en_definition": "The greenhouse effect is the warming of Earth's surface and lower atmosphere caused by gases such as CO2 and methane that trap heat from the sun. Human activity has intensified this natural process, contributing to global warming.",
+    "ru_term": "Парниковый эффект",
+    "ru_definition": "Парниковый эффект — это нагрев поверхности Земли и нижних слоёв атмосферы, вызванный газами, такими как CO2 и метан, которые удерживают солнечное тепло. Деятельность человека усиливает этот природный процесс, способствуя глобальному потеплению.",
+    "uz_term": "Issiqxona effekti",
+    "uz_definition": "Issiqxona effekti — Yer yuzasi va atmosferaning quyi qatlamlarini CO2 va metan kabi gazlar tomonidan quyosh issiqligini tutib qolish natijasida isishi. Inson faoliyati bu tabiiy jarayonni kuchaytirib, global isish sodir bo'lishiga olib keladi.",
+    "qq_term": "Parnik effekti",
+    "qq_definition": "Parnik effekti — Jer betiniń hám atmosferanıń tómengi qatlamlarınıń CO2 hám metan sıyaqlı gazlardıń quyash ıssılıǵın uslap qalıwı nátiyjesinde qızıwı. Insan iskerligi bul tábiyǵıy procestı kúsheytip, global qızıwǵa alıp keledi."
+  },
+  {
+    "en_term": "Ozone layer",
+    "en_definition": "The ozone layer is a region of Earth's stratosphere that contains high concentrations of ozone (O3) and absorbs most of the sun's ultraviolet radiation. Its depletion exposes living organisms to harmful UV rays.",
+    "ru_term": "Озоновый слой",
+    "ru_definition": "Озоновый слой — это часть стратосферы Земли с высокой концентрацией озона (O3), поглощающая большую часть ультрафиолетового излучения Солнца. Его разрушение приводит к увеличению опасного УФ-излучения у поверхности.",
+    "uz_term": "Ozon qatlami",
+    "uz_definition": "Ozon qatlami — Yer stratosferasining ozon (O3) konsentratsiyasi yuqori bo'lgan qismi bo'lib, Quyoshning ultrabinafsha nurlanishining katta qismini yutadi. Uning yemirilishi xavfli UV-nurlanishning sirtga yetib kelishiga olib keladi.",
+    "qq_term": "Ozon qatlamı",
+    "qq_definition": "Ozon qatlamı — Jer stratosferasınıń ozon (O3) konsentraciyası joqarı bolǵan bólimi bolıp, Quyashtıń ultrafiolet nurlanıwınıń kóp bólimin jutadı. Onıń buzılıwı qáwipli UV-nurlanıwdıń jer betine jetip keliwine alıp keledi."
+  },
+  {
+    "en_term": "Renewable energy",
+    "en_definition": "Renewable energy is energy collected from natural resources that are replenished on a human timescale, such as sunlight, wind, water, geothermal heat and biomass. It is a cornerstone of sustainable development.",
+    "ru_term": "Возобновляемая энергия",
+    "ru_definition": "Возобновляемая энергия — это энергия, получаемая из природных источников, которые восполняются в человеческом масштабе времени: солнца, ветра, воды, геотермального тепла и биомассы. Она лежит в основе устойчивого развития.",
+    "uz_term": "Qayta tiklanadigan energiya",
+    "uz_definition": "Qayta tiklanadigan energiya — quyosh, shamol, suv, geotermal issiqlik va biomassa kabi inson hayoti davomida yangilanib turadigan tabiiy manbalardan olinadigan energiya. U barqaror rivojlanishning asosi hisoblanadi.",
+    "qq_term": "Qayta tiklanatuǵın energiya",
+    "qq_definition": "Qayta tiklanatuǵın energiya — quyash, samal, suw, geotermal ıssılıq hám biomassa sıyaqlı insan ómiri dawamında jańalanıp turatuǵın tábiyǵıy derekleri arqalı alınatuǵın energiya. Ol turaqlı rawajlanıwdıń tiykarı esaplanadı."
+  },
+  {
+    "en_term": "Deforestation",
+    "en_definition": "Deforestation is the large-scale removal of forests, often to make land available for agriculture, logging or urban development. It contributes to biodiversity loss, soil erosion and increased atmospheric carbon dioxide.",
+    "ru_term": "Обезлесение",
+    "ru_definition": "Обезлесение — это массовая вырубка лесов, чаще всего для сельского хозяйства, заготовки древесины или городского строительства. Оно ведёт к утрате биоразнообразия, эрозии почв и росту концентрации CO2 в атмосфере.",
+    "uz_term": "O'rmonlarni kesish",
+    "uz_definition": "O'rmonlarni kesish — qishloq xo'jaligi, yog'och tayyorlash yoki shahar qurilishi uchun keng ko'lamda o'rmonlarni yo'q qilish. U biologik xilma-xillikning yo'qolishiga, tuproq eroziyasiga va atmosferada CO2 ko'payishiga olib keladi.",
+    "qq_term": "Ormanlardı kesiw",
+    "qq_definition": "Ormanlardı kesiw — awıl xojalıǵı, aǵash tayarlaw yamasa qala qurılısı ushın keń kólemde ormanlardı joq qılıw. Ol biologiyalıq túrli-túrliliktiń joǵalıwına, topıraq eroziyasına hám atmosferada CO2 kóbeyiwine alıp keledi."
+  },
+  {
+    "en_term": "Water pollution",
+    "en_definition": "Water pollution is the contamination of water bodies such as rivers, lakes, oceans and groundwater by harmful substances. Sources include industrial discharge, agricultural runoff and untreated sewage.",
+    "ru_term": "Загрязнение воды",
+    "ru_definition": "Загрязнение воды — это попадание вредных веществ в реки, озёра, океаны и подземные воды. Основными источниками являются промышленные сбросы, сельскохозяйственные стоки и неочищенные канализационные воды.",
+    "uz_term": "Suv ifloslanishi",
+    "uz_definition": "Suv ifloslanishi — daryolar, ko'llar, okeanlar va yer osti suvlariga zararli moddalarning tushishi. Asosiy manbalari sanoat chiqindilari, qishloq xo'jaligi oqavalari va tozalanmagan kanalizatsiya suvlaridir.",
+    "qq_term": "Suw pataslanıwı",
+    "qq_definition": "Suw pataslanıwı — dáryalar, kóller, okeanlar hám jer astı suwlarına zıyanlı zatlardıń túsiwi. Tiykarǵı derekleri sanaat shıǵındıları, awıl xojalıǵı aqpaları hám tazalanbaǵan kanalizaciya suwları."
+  },
+  {
+    "en_term": "Air pollution",
+    "en_definition": "Air pollution is the presence of harmful substances in the atmosphere, including particulate matter, smog and toxic gases. It harms human health and damages ecosystems and the climate.",
+    "ru_term": "Загрязнение воздуха",
+    "ru_definition": "Загрязнение воздуха — это наличие в атмосфере вредных веществ, включая твёрдые частицы, смог и токсичные газы. Оно наносит ущерб здоровью человека, экосистемам и климату.",
+    "uz_term": "Havo ifloslanishi",
+    "uz_definition": "Havo ifloslanishi — atmosferada qattiq zarralar, smog va zaharli gazlar kabi zararli moddalarning mavjudligi. U inson sog'lig'iga, ekotizimlarga va iqlimga jiddiy zarar yetkazadi.",
+    "qq_term": "Hawa pataslanıwı",
+    "qq_definition": "Hawa pataslanıwı — atmosferada qattı zárrelekler, smog hám záhárli gazlar sıyaqlı zıyanlı zatlardıń bolıwı. Ol insan densawlıǵına, ekosistemalarǵa hám klimatqa úlken zıyan keltiredi."
+  },
+  {
+    "en_term": "Soil erosion",
+    "en_definition": "Soil erosion is the gradual removal of the topsoil layer by wind, water or human activity. It reduces land productivity, degrades ecosystems and can lead to desertification.",
+    "ru_term": "Эрозия почвы",
+    "ru_definition": "Эрозия почвы — это постепенное удаление верхнего плодородного слоя почвы под действием ветра, воды или деятельности человека. Она снижает плодородие земли и может приводить к опустыниванию.",
+    "uz_term": "Tuproq eroziyasi",
+    "uz_definition": "Tuproq eroziyasi — shamol, suv yoki inson faoliyati ta'sirida tuproqning yuqori unumdor qatlamining asta-sekin yo'qolishi. U yerning hosildorligini kamaytiradi va cho'llanishga olib kelishi mumkin.",
+    "qq_term": "Topıraq eroziyası",
+    "qq_definition": "Topıraq eroziyası — samal, suw yamasa insan iskerligi tásirinde topıraqtıń joqarı únimli qatlamınıń bara-bara joǵalıwı. Ol jerdiń ónimliligin kemeytirip, sholleniwge alıp keliwi múmkin."
+  },
+  {
+    "en_term": "Climate change",
+    "en_definition": "Climate change refers to long-term shifts in temperatures and weather patterns, primarily driven by human activities such as burning fossil fuels. It causes rising sea levels, extreme weather and ecosystem disruption.",
+    "ru_term": "Изменение климата",
+    "ru_definition": "Изменение климата — это долгосрочные изменения температуры и погодных режимов, обусловленные главным образом деятельностью человека, в частности сжиганием ископаемого топлива. Оно вызывает повышение уровня моря, экстремальные погодные явления и разрушение экосистем.",
+    "uz_term": "Iqlim o'zgarishi",
+    "uz_definition": "Iqlim o'zgarishi — asosan inson faoliyati, xususan qazib olinadigan yoqilg'ilarni yoqish natijasida sodir bo'ladigan harorat va ob-havo rejimlarining uzoq muddatli o'zgarishi. U dengiz sathining ko'tarilishiga, ekstremal ob-havoga va ekotizimlarning buzilishiga olib keladi.",
+    "qq_term": "Klimat ózgerisi",
+    "qq_definition": "Klimat ózgerisi — tiykarınan insan iskerligi, ásirese qazılma janılǵılardı janıw nátiyjesinde júz beretuǵın temperatura hám hawa rayı rejimleriniń uzaq múddetli ózgerisleri. Ol teńiz satınıń kóteriliwine, ekstremal hawa rayına hám ekosistemalardıń buzılıwına alıp keledi."
+  },
+  {
+    "en_term": "Habitat",
+    "en_definition": "A habitat is the natural environment in which a particular species lives, providing the food, water, shelter and space it needs to survive. Habitat loss is a leading cause of species extinction.",
+    "ru_term": "Среда обитания",
+    "ru_definition": "Среда обитания — это естественное окружение, в котором живёт определённый вид и которое обеспечивает его пищей, водой, убежищем и пространством. Потеря среды обитания — основная причина исчезновения видов.",
+    "uz_term": "Yashash muhiti",
+    "uz_definition": "Yashash muhiti — ma'lum bir tur yashaydigan va unga oziq-ovqat, suv, boshpana va makon ta'minlaydigan tabiiy muhit. Yashash muhitining yo'qolishi turlarning yo'q bo'lib ketishining asosiy sababidir.",
+    "qq_term": "Jasaw ortalıǵı",
+    "qq_definition": "Jasaw ortalıǵı — belgili bir túr jasaytuǵın hám oǵan azıq-awqat, suw, panahana hám orın támiyinleytuǵın tábiyǵıy ortalıq. Jasaw ortalıǵınıń joǵalıwı túrlerdiń joq bolıp ketiwiniń tiykarǵı sebebi bolıp tabıladı."
+  },
+  {
+    "en_term": "Food chain",
+    "en_definition": "A food chain is a linear sequence that shows how energy and nutrients pass from one organism to another. It typically begins with producers (plants) and ends with apex predators.",
+    "ru_term": "Пищевая цепь",
+    "ru_definition": "Пищевая цепь — это линейная последовательность, показывающая, как энергия и питательные вещества передаются от одного организма к другому. Обычно она начинается с продуцентов (растений) и заканчивается высшими хищниками.",
+    "uz_term": "Oziq-ovqat zanjiri",
+    "uz_definition": "Oziq-ovqat zanjiri — energiya va oziq moddalarning bir organizmdan boshqasiga qanday o'tishini ko'rsatuvchi chiziqli ketma-ketlik. Odatda u produtsentlardan (o'simliklar) boshlanib, yuqori yirtqichlar bilan tugaydi.",
+    "qq_term": "Azıq-awqat shınjırı",
+    "qq_definition": "Azıq-awqat shınjırı — energiya hám azıq zatlarınıń bir organizmnen ekinshisine qanday ótetuǵının kórsetiwshi sızıqlı izbe-izlik. Ádette ol produsentlerden (ósimliklerden) baslanıp, joqarı jırtqıshlar menen tamamlanadı."
+  },
+  {
+    "en_term": "Biomass",
+    "en_definition": "Biomass is organic material derived from living or recently living organisms, including plants, animals and microbes. It is used as a renewable energy source and as a measure of ecosystem productivity.",
+    "ru_term": "Биомасса",
+    "ru_definition": "Биомасса — это органический материал, полученный из живых или недавно живших организмов, включая растения, животных и микроорганизмы. Она используется как возобновляемый источник энергии и как показатель продуктивности экосистем.",
+    "uz_term": "Biomassa",
+    "uz_definition": "Biomassa — o'simliklar, hayvonlar va mikroorganizmlar kabi tirik yoki yaqinda yashagan organizmlardan olingan organik material. U qayta tiklanadigan energiya manbai va ekotizim mahsuldorligi ko'rsatkichi sifatida ishlatiladi.",
+    "qq_term": "Biomassa",
+    "qq_definition": "Biomassa — ósimlikler, haywanlar hám mikroorganizmler sıyaqlı tiri yamasa jaqında jasaǵan organizmlerden alınǵan organikalıq material. Ol qayta tiklanatuǵın energiya dereki hám ekosistema ónimliligi kórsetkishi sıpatında qollanıladı."
+  },
+  {
+    "en_term": "Carbon footprint",
+    "en_definition": "A carbon footprint is the total amount of greenhouse gases, expressed in CO2 equivalent, emitted directly or indirectly by an individual, organisation, product or event. Reducing it is key to mitigating climate change.",
+    "ru_term": "Углеродный след",
+    "ru_definition": "Углеродный след — это общее количество парниковых газов, выраженное в эквиваленте CO2, выбрасываемое прямо или косвенно человеком, организацией, продуктом или мероприятием. Его сокращение является ключевым в борьбе с изменением климата.",
+    "uz_term": "Uglerod izi",
+    "uz_definition": "Uglerod izi — shaxs, tashkilot, mahsulot yoki tadbir tomonidan bevosita yoki bilvosita chiqariladigan, CO2 ekvivalentida ifodalangan issiqxona gazlarining umumiy miqdori. Uni kamaytirish iqlim o'zgarishiga qarshi kurashda muhim ahamiyatga ega.",
+    "qq_term": "Uglerod izi",
+    "qq_definition": "Uglerod izi — shaxs, shólkem, ónim yamasa is-cara tárepinen tikkeley yamasa janama túrde shıǵarılatuǵın, CO2 ekvivalentinde kórsetilgen parnik gazlarınıń ulıwma muǵdarı. Onı kemeytiw klimat ózgerisine qarsı gúresde tiykarǵı áhmiyetke iye."
+  },
+  {
+    "en_term": "Sustainable development",
+    "en_definition": "Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs. It balances economic, social and environmental goals.",
+    "ru_term": "Устойчивое развитие",
+    "ru_definition": "Устойчивое развитие — это развитие, удовлетворяющее потребности нынешнего поколения без ущерба для возможностей будущих поколений удовлетворять свои собственные потребности. Оно сочетает экономические, социальные и экологические цели.",
+    "uz_term": "Barqaror rivojlanish",
+    "uz_definition": "Barqaror rivojlanish — kelajak avlodlarning o'z ehtiyojlarini qondirish imkoniyatiga zarar yetkazmagan holda hozirgi avlod ehtiyojlarini qondiradigan rivojlanish. U iqtisodiy, ijtimoiy va ekologik maqsadlarni uyg'unlashtiradi.",
+    "qq_term": "Turaqlı rawajlanıw",
+    "qq_definition": "Turaqlı rawajlanıw — keleshek áwladlardıń óz mútájliklerin qandırıw múmkinshiligine zıyan keltirmegen halda házirgi áwlad mútájliklerin qandıratuǵın rawajlanıw. Ol ekonomikalıq, social hám ekologiyalıq maqsetlerdi birlestiredi."
+  },
+  {
+    "en_term": "Recycling",
+    "en_definition": "Recycling is the process of converting waste materials into new products and raw materials. It reduces the consumption of fresh resources, decreases pollution and lowers greenhouse gas emissions.",
+    "ru_term": "Переработка",
+    "ru_definition": "Переработка — это процесс превращения отходов в новые изделия и сырьё. Она сокращает потребление природных ресурсов, снижает уровень загрязнения и уменьшает выбросы парниковых газов.",
+    "uz_term": "Qayta ishlash",
+    "uz_definition": "Qayta ishlash — chiqindilarni yangi mahsulotlar va xom ashyoga aylantirish jarayoni. U yangi tabiiy resurslar iste'molini kamaytiradi, ifloslanishni va issiqxona gazlari chiqindilarini kamaytiradi.",
+    "qq_term": "Qayta islew",
+    "qq_definition": "Qayta islew — shıǵındılardı jańa ónimler hám shiyki zatqa aylandırıw procesi. Ol jańa tábiyǵıy resurslar paydalanıwın kemeytip, pataslanıwdı hám parnik gazları shıǵındıların azaytadı."
+  },
+  {
+    "en_term": "Extinction",
+    "en_definition": "Extinction is the complete disappearance of a species, often caused by habitat destruction, climate change, hunting or pollution. Once extinct, a species cannot be recovered through natural processes.",
+    "ru_term": "Вымирание",
+    "ru_definition": "Вымирание — это полное исчезновение вида, часто вызванное разрушением среды обитания, изменением климата, охотой или загрязнением. Вымерший вид невозможно восстановить естественным путём.",
+    "uz_term": "Yo'q bo'lib ketish",
+    "uz_definition": "Yo'q bo'lib ketish — ko'pincha yashash muhitining yo'qotilishi, iqlim o'zgarishi, ov yoki ifloslanish sabab bo'ladigan turning to'liq yo'qolishi. Yo'q bo'lgan turni tabiiy yo'l bilan tiklab bo'lmaydi.",
+    "qq_term": "Joq bolıp ketiw",
+    "qq_definition": "Joq bolıp ketiw — kóbinese jasaw ortalıǵınıń joǵaltılıwı, klimat ózgerisi, awshılıq yamasa pataslanıw sebepli júz beretuǵın túrdiń tolıq joǵalıwı. Joq bolǵan túrdi tábiyǵıy jol menen tiklep bolmaydı."
+  },
+  {
+    "en_term": "Animal migration",
+    "en_definition": "Animal migration is the seasonal movement of animals from one region to another, usually in search of food, breeding grounds or favorable climate. It can occur on land, in water or in the air.",
+    "ru_term": "Миграция животных",
+    "ru_definition": "Миграция животных — это сезонное перемещение животных из одного региона в другой, обычно в поисках пищи, мест размножения или благоприятного климата. Она может происходить на суше, в воде или в воздухе.",
+    "uz_term": "Hayvonlar migratsiyasi",
+    "uz_definition": "Hayvonlar migratsiyasi — oziq-ovqat, ko'payish joylari yoki qulay iqlim qidirib, hayvonlarning mavsumiy ravishda bir hududdan boshqasiga ko'chishi. U quruqlikda, suvda yoki havoda sodir bo'lishi mumkin.",
+    "qq_term": "Haywanlar migraciyası",
+    "qq_definition": "Haywanlar migraciyası — azıq-awqat, kóbeyiw orınları yamasa qolaylı klimat izlep, haywanlardıń máwsim boyınsha bir aymaqtan ekinshisine kóshiwi. Ol qurǵaqlıqta, suwda yamasa hawada júz beriwi múmkin."
+  },
+  {
+    "en_term": "Pollination",
+    "en_definition": "Pollination is the transfer of pollen from the male anther of a flower to the female stigma, enabling fertilization and the production of seeds. Bees, birds, wind and water are common pollinators.",
+    "ru_term": "Опыление",
+    "ru_definition": "Опыление — это перенос пыльцы с мужских пыльников цветка на женское рыльце, что обеспечивает оплодотворение и образование семян. Пчёлы, птицы, ветер и вода являются распространёнными опылителями.",
+    "uz_term": "Changlanish",
+    "uz_definition": "Changlanish — gulning erkak changdonidan urg'ochi tumshuqchasiga changning o'tkazilishi bo'lib, urug'lanish va urug'larning hosil bo'lishini ta'minlaydi. Asalarilar, qushlar, shamol va suv asosiy changlatuvchilardir.",
+    "qq_term": "Shańlanıw",
+    "qq_definition": "Shańlanıw — gúldiń erkek shańdannan urǵashı tumsıǵına shańnıń ótkeriliwi bolıp, urıqlanıw hám urıqlardıń payda bolıwın támiyinleydi. Hárelekler, qusler, samal hám suw tiykarǵı shańlandırıwshılar bolıp tabıladı."
+  },
+  {
+    "en_term": "Watershed",
+    "en_definition": "A watershed is an area of land that drains all the streams and rainfall to a common outlet such as a river, lake or ocean. Healthy watersheds are vital for clean water supply and biodiversity.",
+    "ru_term": "Водосборный бассейн",
+    "ru_definition": "Водосборный бассейн — это территория, с которой все ручьи и осадки стекают в общий водный объект, например реку, озеро или океан. Здоровые водосборные бассейны жизненно важны для чистой воды и биоразнообразия.",
+    "uz_term": "Suv havzasi",
+    "uz_definition": "Suv havzasi — barcha jilg'alar va yog'inlar daryo, ko'l yoki okean kabi umumiy suv ob'ektiga oqib chiqadigan hudud. Sog'lom suv havzalari toza suv ta'minoti va biologik xilma-xillik uchun juda muhim.",
+    "qq_term": "Suw hawzası",
+    "qq_definition": "Suw hawzası — barlıq sarqamalar hám jawın-shashın dárya, kól yamasa okean sıyaqlı ulıwma suw ob'ektine aǵıp shıǵatuǵın aymaq. Sawlamalı suw hawzaları taza suw támiynatı hám biologiyalıq túrli-túrlilik ushın júdá zárúr."
+  },
+  {
+    "en_term": "Desertification",
+    "en_definition": "Desertification is the process by which fertile land becomes desert, typically as a result of drought, deforestation or inappropriate agriculture. It is a serious concern in arid regions including Central Asia.",
+    "ru_term": "Опустынивание",
+    "ru_definition": "Опустынивание — это процесс превращения плодородных земель в пустыню, обычно вследствие засух, обезлесения или нерационального сельского хозяйства. Это серьёзная проблема в засушливых регионах, включая Центральную Азию.",
+    "uz_term": "Cho'llanish",
+    "uz_definition": "Cho'llanish — odatda qurg'oqchilik, o'rmonlarni kesish yoki noto'g'ri qishloq xo'jaligi natijasida unumdor yerlarning cho'lga aylanish jarayoni. Bu Markaziy Osiyo kabi qurg'oq mintaqalarda jiddiy muammodir.",
+    "qq_term": "Sholleniw",
+    "qq_definition": "Sholleniw — ádette qurǵaqshılıq, ormanlardı kesiw yamasa duris emes awıl xojalıǵı nátiyjesinde únimli jerlerdiń shólge aylanıw procesi. Bul Oraylıq Aziya sıyaqlı qurǵaq aymaqlarda úlken máseledir."
+  },
+  {
+    "en_term": "Acid rain",
+    "en_definition": "Acid rain is precipitation with elevated levels of acidity, caused primarily by emissions of sulfur dioxide and nitrogen oxides from burning fossil fuels. It damages forests, lakes, soils and buildings.",
+    "ru_term": "Кислотный дождь",
+    "ru_definition": "Кислотный дождь — это осадки с повышенной кислотностью, вызванные главным образом выбросами диоксида серы и оксидов азота при сжигании ископаемого топлива. Они наносят ущерб лесам, озёрам, почвам и зданиям.",
+    "uz_term": "Kislotali yomg'ir",
+    "uz_definition": "Kislotali yomg'ir — asosan qazib olinadigan yoqilg'ilarni yoqishdan paydo bo'ladigan oltingugurt dioksidi va azot oksidlari chiqindilari natijasida yuzaga keladigan kislotaligi yuqori yog'in. U o'rmonlarga, ko'llarga, tuproqqa va binolarga zarar yetkazadi.",
+    "qq_term": "Kislotalı jaǵın",
+    "qq_definition": "Kislotalı jaǵın — tiykarınan qazılma janılǵılardı janıwdan payda bolatuǵın altıngúgirt dioksidi hám azot oksidleri shıǵındıları nátiyjesinde payda bolatuǵın kislotalıǵı joqarı jawın. Ol ormanlarǵa, kóllerge, topıraqqa hám imaratlarǵa zıyan keltiredi."
+  },
+  {
+    "en_term": "Evaporation",
+    "en_definition": "Evaporation is the process by which water changes from a liquid to a vapor and enters the atmosphere. It is a key stage of the hydrological cycle and is driven mainly by solar energy.",
+    "ru_term": "Испарение",
+    "ru_definition": "Испарение — это процесс перехода воды из жидкого состояния в пар и её попадание в атмосферу. Это ключевой этап гидрологического цикла, движимый главным образом солнечной энергией.",
+    "uz_term": "Bug'lanish",
+    "uz_definition": "Bug'lanish — suvning suyuq holatdan bug'ga aylanib, atmosferaga o'tishi jarayoni. U gidrologik siklning asosiy bosqichi bo'lib, asosan quyosh energiyasi ta'sirida sodir bo'ladi.",
+    "qq_term": "Puwlanıw",
+    "qq_definition": "Puwlanıw — suwdıń suyıq halınan puwǵa aylanıp, atmosferaǵa ótiwi procesi. Ol gidrologiyalıq cikldıń tiykarǵı basqıshı bolıp, tiykarınan quyash energiyası tásirinde júz beredi."
+  },
+  {
+    "en_term": "Symbiosis",
+    "en_definition": "Symbiosis is a close and long-term biological interaction between two different organisms. It can be mutualistic (both benefit), commensal (one benefits without harming the other) or parasitic (one benefits at the other's expense).",
+    "ru_term": "Симбиоз",
+    "ru_definition": "Симбиоз — это тесное и длительное биологическое взаимодействие между двумя разными организмами. Он может быть мутуалистическим (оба получают выгоду), комменсалистическим или паразитическим.",
+    "uz_term": "Simbioz",
+    "uz_definition": "Simbioz — ikki turli organizm o'rtasidagi yaqin va uzoq davom etadigan biologik o'zaro ta'sir. U mutualizm (ikkalasi ham foyda ko'radi), kommensalizm yoki parazitizm shaklida bo'lishi mumkin.",
+    "qq_term": "Simbioz",
+    "qq_definition": "Simbioz — eki túrli organizm arasındaǵı jaqın hám uzaq dawam etetuǵın biologiyalıq óz-ara tásir. Ol mutualizm (ekewi de payda kóredi), kommensalizm yamasa parazitizm formasında bolıwı múmkin."
+  },
+  {
+    "en_term": "Predator",
+    "en_definition": "A predator is an animal that hunts, kills and eats other animals to obtain food. Predators play a crucial role in regulating prey populations and maintaining ecosystem balance.",
+    "ru_term": "Хищник",
+    "ru_definition": "Хищник — это животное, которое охотится, убивает и питается другими животными. Хищники играют важную роль в регулировании численности жертв и поддержании равновесия в экосистеме.",
+    "uz_term": "Yirtqich",
+    "uz_definition": "Yirtqich — oziq-ovqat olish uchun boshqa hayvonlarni ovlaydigan, o'ldiradigan va yeydigan hayvon. Yirtqichlar o'lja populyatsiyasini tartibga solishda va ekotizim muvozanatini saqlashda muhim rol o'ynaydi.",
+    "qq_term": "Jırtqısh",
+    "qq_definition": "Jırtqısh — azıq-awqat alıw ushın basqa haywanlardı awlaytuǵın, óltiretuǵın hám jeytuǵın haywan. Jırtqıshlar olja populyaciyasın tártipke salıwda hám ekosistema teń salmaqlılıǵın saqlawda áhmiyetli rol oynaydı."
+  },
+  {
+    "en_term": "Natural reserve",
+    "en_definition": "A natural reserve is a protected area of land or water managed to preserve wildlife, plants and ecosystems. Human activity in reserves is regulated to minimise impact on the environment.",
+    "ru_term": "Природный заповедник",
+    "ru_definition": "Природный заповедник — это охраняемая территория суши или водоёма, управляемая в целях сохранения дикой природы, растений и экосистем. Деятельность человека в заповедниках регулируется для минимизации воздействия на окружающую среду.",
+    "uz_term": "Tabiat qo'riqxonasi",
+    "uz_definition": "Tabiat qo'riqxonasi — yovvoyi tabiat, o'simliklar va ekotizimlarni saqlash maqsadida boshqariladigan quruqlik yoki suvning muhofazalanadigan hududi. Qo'riqxonalardagi inson faoliyati atrof-muhitga ta'sirni kamaytirish uchun tartibga solinadi.",
+    "qq_term": "Tábiyat qorıqxanası",
+    "qq_definition": "Tábiyat qorıqxanası — jabayı tábiyat, ósimlikler hám ekosistemalardı saqlaw maqsetinde basqarılatuǵın qurǵaqlıq yamasa suwdıń qorǵalatuǵın aymaǵı. Qorıqxanalardaǵı insan iskerligi qorshaǵan ortalıqqa tásirin kemeytiw ushın tártipke salınadı."
+  },
+  {
+    "en_term": "Organic matter",
+    "en_definition": "Organic matter consists of compounds derived from the remains of organisms such as plants and animals and their waste products. In soil, it improves fertility, structure and water retention.",
+    "ru_term": "Органическое вещество",
+    "ru_definition": "Органическое вещество — это соединения, образующиеся из остатков организмов, таких как растения и животные, и продуктов их жизнедеятельности. В почве оно повышает плодородие, улучшает структуру и удерживает влагу.",
+    "uz_term": "Organik modda",
+    "uz_definition": "Organik modda — o'simliklar va hayvonlar kabi organizmlar qoldiqlari va ularning hayot faoliyati mahsulotlaridan hosil bo'ladigan birikmalar. Tuproqda u unumdorlikni oshiradi, tuzilishni yaxshilaydi va namlikni ushlab turadi.",
+    "qq_term": "Organikalıq zat",
+    "qq_definition": "Organikalıq zat — ósimlikler hám haywanlar sıyaqlı organizmler qaldıqları hám olardıń ómir iskerligi ónimlerinen payda bolatuǵın birikpeler. Topıraqta ol únimlilikti asıradı, dúzilisin jaqsılaydı hám ǵalıdı uslap turadı."
+  },
+  {
+    "en_term": "Biosphere",
+    "en_definition": "The region of life on Earth, including the lower part of the atmosphere, the hydrosphere, and the upper part of the lithosphere.",
+    "ru_term": "Биосфера",
+    "ru_definition": "Область распространения жизни на Земле, включающая нижнюю часть атмосферы, гидросферу и верхнюю часть литосферы.",
+    "uz_term": "Biosfera",
+    "uz_definition": "Atmosferaning quyi qismi, gidrosfera va litosferaning yuqori qismini o'z ichiga olgan Yerdagi hayot tarqalgan hudud.",
+    "qq_term": "Biosfera",
+    "qq_definition": "Atmosferanıń tómengi bólimi, gidrosfera hám litosferanıń joqarı bólimin óz ishine algan Jerdegi tirishilik tarqalgan aymaq."
+  },
+  {
+    "en_term": "Environment",
+    "en_definition": "Environment — the complex of physical, chemical, and biotic factors (such as climate, soil, and living things) that act upon an organism or an ecological community and ultimately determine its form and survival.",
+    "ru_term": "Окружающая среда",
+    "ru_definition": "Окружающая среда — это совокупность компонентов природной среды, природных и природно-антропогенных объектов, а также антропогенных объектов, которые окружают человека и другие живые организмы, оказывая влияние на их жизнедеятельность.",
+    "uz_term": "Atrof-muhit",
+    "uz_definition": "Atrof-muhit — inson va boshqa barcha tirik organizmlar yashaydigan, ularning hayoti, salomatligi va faoliyatiga to'g'ridan-to'g'ri yoki bilvosita ta'sir ko'rsatadigan tabiiy va sun'iy (antropogen) omillar majmuidir.",
+    "qq_term": "Atrap-ortalıq",
+    "qq_definition": "Atrap-ortalıq — bul insan hám basqa da barlıq tiri organizmler jasaytuǵın, olardıń turmısı hám xizmetine tuwridan-tuwri tásir kórsetetuǵın tábiyiy, turalı hám jasalma (sociallıq) faktorlardıń jıyındısı."
+  },
+  {
+    "en_term": "Nature",
+    "en_definition": "Nature — the physical world and everything in it that is not made by people, including the weather, organisms, landforms, and the processes and forces that govern them.",
+    "ru_term": "Природа",
+    "ru_definition": "Природа — это материальный мир Вселенной, совокупность естественных условий существования человеческого общества и всех живых организмов, развивающаяся по собственным законам независимо от воли человека.",
+    "uz_term": "Tabiat",
+    "uz_definition": "Tabiat — insoniyat faoliyatidan mustaqil ravishda vujudga kelgan, o'zining ichki qonuniyatlariga ko'ra rivojlanadigan butun moddiy borliq, borliqning barcha jonli va jonsiz shakllari majmuidir.",
+    "qq_term": "Tabiyat",
+    "qq_definition": "Tabiyat — bul insannıń qatnasıwısız, óz-ara tábiyiy nızamlıqlar tiykarında payda bolǵan hám rawajlanıp atırǵan barlıq materiallıq dunya, tiri hám tiri emes tábiyattıń jıyındısıdır."
+  },
+  {
+    "en_term": "Biocenosis",
+    "en_definition": "A biocenosis (also called a biotic community or ecological community) is a naturally occurring group of different organisms (plants, animals, fungi, and microorganisms) living together and interacting in a shared environment (biotope).",
+    "ru_term": "Биоценоз",
+    "ru_definition": "Биоценоз — это исторически сложившаяся совокупность живых организмов (растений, животных, грибов и микроорганизмов), населяющих относительно однородное жизненное пространство (биотоп) и связанных между собой сложными взаимоотношениями.",
+    "uz_term": "Biotsenoz",
+    "uz_definition": "Biotsenoz — muayyan yashash sharoitiga ega bo'lgan bir xil hududni (biotopni) egallagan va o'zaro murakkab aloqalarda (ozuqa zanjiri, simbioz va b.) bo'lgan barcha tirik organizmlar (o'simliklar, hayvonlar, zamburug'lar va mikroorganizmlar) majmuidir.",
+    "qq_term": "Biocenoz",
+    "qq_definition": "Biocenoz — bul belgili bir turaqlı ortalıq sharayatına iye bolǵan aymaqta (biotopta) birgelikde jasaytuǵın hám óz-ara tásirlesiwde bolǵan barlıq tiri organizmlerdiń (ósimlikler, haywanlar, mikroorganizmler, zamburuǵlar) jıyındısıdır."
+  },
+  {
+    "en_term": "Biogeocenosis",
+    "en_definition": "A biogeocenosis is a self-regulating and historically evolved ecological system in which the living community (biocenosis) and its non-living physical environment (biotope) are closely linked through the exchange of matter and energy.",
+    "ru_term": "Биогеоценоз",
+    "ru_definition": "Биогеоценоз — это однородный участок земной поверхности с определённым составом живых организмов (биоценоз) и условий среды обитания (косных факторов: приземного слоя атмосферы, почвы, гидрологических условий), объединённых круговоротом веществ и потоком энергии в единый природный комплекс.",
+    "uz_term": "Biogeotsenoz",
+    "uz_definition": "Biogeotsenoz — Yer yuzasining muayyan bir xil qismidagi tirik organizmlar (biotsenoz) bilan jonsiz tabiat omillari (yer qatlamining xususiyatlari, havo, suv, quyosh energiyasi yoki biotop)ning o'zaro oziqlanish va energiya almashinuvi zanjirlari orqali bir-biriga bog'langan tarixiy barqaror majmuidir.",
+    "qq_term": "Biogeocenoz",
+    "qq_definition": "Biogeocenoz — bul Jer betiniń belgili bir tegisliktegi aymaǵında tiri organizmler (biocenoz) menen tiri emes tábiyattıń (atmosfera, topıraq, suw, t.b. yamasa biotop) óz-ara turaqlı baylanısqan, zat hám energiya almasıwın ámelge asıratuǵın bir pútin tábiyiy sistemasıdır."
+  },
+  {
+    "en_term": "Hydrosphere",
+    "en_definition": "The hydrosphere (from Greek hydor — water, and sphaira — sphere) is the total amount of water on a planet, including water on the surface, underground, and in the air.",
+    "ru_term": "Гидросфера",
+    "ru_definition": "Гидросфера (от греч. hydor — вода и sphaira — шар) — это водная оболочка Земли, совокупность всех её водных запасов, находящихся в жидком, твёрдом и газообразном состояниях.",
+    "uz_term": "Gidrosfera",
+    "uz_definition": "Gidrosfera (grekcha hydor — suv, sphaira — shar) — Yer sayyorasining barcha suv zaxiralarini o'z ichiga olgan uzluksiz suv qobig'idir.",
+    "qq_term": "Gidrosfera",
+    "qq_definition": "Gidrosfera (grekse hydor — suw, sphaira — shar) — bul Jer planetasınıń barlıq suw zapasların óz ishine alatuǵın úzliksiz suw qatlamı (suw qabıǵı) esaplanadı."
+  },
+  {
+    "en_term": "Lithosphere",
+    "en_definition": "The lithosphere (from Greek lithos — stone, and sphaira — sphere) is the rigid, outermost rocky shell of a planet, encompassing the crust and the uppermost solid mantle.",
+    "ru_term": "Литосфера",
+    "ru_definition": "Литосфера (от греч. lithos — камень и sphaira — шар) — это твёрдая, каменная оболочка Земли, включающая в себя земную кору и верхнюю, жёсткую часть мантии.",
+    "uz_term": "Litosfera",
+    "uz_definition": "Litosfera (grekcha lithos — tosh, sphaira — shar) — Yer sayyorasining eng tashqi, qattiq va toshloq qobig'idir.",
+    "qq_term": "Litosfera",
+    "qq_definition": "Litosfera (grekse lithos — tas, sphaira — shar) — bul Jer planetasınıń qattı, tastaq sırtqı qabıǵı (qatlamı) esaplanadı."
+  },
+  {
+    "en_term": "Population",
+    "en_definition": "A population is a group of individuals of the same species living in a specific geographical area at the same time, which are capable of interbreeding and sharing a common gene pool.",
+    "ru_term": "Популяция",
+    "ru_definition": "Популяция — это совокупность особей одного вида, в течение длительного времени населяющих определённое пространство (ареал), способных свободно скрещиваться между собой и частично или полностью изолированных от других таких же совокупностей.",
+    "uz_term": "Populyatsiya",
+    "uz_definition": "Populyatsiya — muayyan turga mansub bo'lgan, uzoq vaqt davomida ma'lum bir hududda (arealda) turning boshqa guruhlaridan qisman yoki to'liq ajralgan holda yashaydigan, o'zaro erkin chatisha oladigan va serpusht avlod qoldiradigan individlar majmuidir.",
+    "qq_term": "Populyaciya",
+    "qq_definition": "Populyaciya — bul bir túrge kiretuǵın, belgili bir aymaqta (arealda) uzaq waqıt dawamında basqa usıday gruppalardan ajralǵan halda jasaytuǵın, óz-ara erkin shaǵılısa alatuǵın hám turaqlı ávlad qaldıratuǵın organizmlerdiń jıyındısıdır."
+  },
+  {
+    "en_term": "Atmosphere",
+    "en_definition": "The atmosphere (from Greek atmos — vapor, and sphaira — sphere) is the envelope of gases surrounding the Earth or another planet, held in place by the force of gravity.",
+    "ru_term": "Атмосфера",
+    "ru_definition": "Атмосфера (от греч. atmos — пар и sphaira — шар) — это газовая оболочка, окружающая планету Земля и удерживаемая силой её гравитации.",
+    "uz_term": "Atmosfera",
+    "uz_definition": "Atmosfera (grekcha atmos — bug', sphaira — shar) — Yer sayyorasini har tomondan qurshab turgan va u bilan birga aylanadigan gazsimon havo qobig'idir.",
+    "qq_term": "Atmosfera",
+    "qq_definition": "Atmosfera (grekse atmos — puw, sphaira — shar) — bul Jer planetasın qorshap turǵan hám onıń menen birge aylanatuǵın gaz qabıǵı (hawa qatlamı) esaplanadı."
+  },
+  {
+    "en_term": "Ecological niche",
+    "en_definition": "Ecological niche — the role and position a species has in its ecosystem, including how it meets its needs for food and shelter, how it survives, and how it reproduces.",
+    "ru_term": "Экологическая ниша",
+    "ru_definition": "Экологическая ниша — это место вида в природе, определяемое его местообитанием, пищевыми связями и совокупностью всех его требований к факторам среды (функциональная роль организма в экосистеме).",
+    "uz_term": "Ekologik nisha",
+    "uz_definition": "Ekologik nisha — turning ekosistemadagi tutgan o'rni, uning yashash muhiti bilan o'zaro aloqalari, oziqlanish aloqalari va ushbu tizimda bajaradigan funktsional vazifalari majmuidir.",
+    "qq_term": "Ekologiyalıq nisha",
+    "qq_definition": "Ekologiyalıq nisha — bul organizmniń ekosistemada tutqan ornı, onıń barlıq tábiyiy faktorlar menen bolǵan qatnasları hám óz jasaw ortalıǵında atqaratuǵın funkcional xizmetiniń jıyındısıdır."
+  },
+  {
+    "en_term": "Biome",
+    "en_definition": "Biome — a large, naturally occurring community of flora and fauna occupying a major habitat, defined by its climate, vegetation, and soil type (e.g., tundra, desert, rainforest).",
+    "ru_term": "Биом",
+    "ru_definition": "Биом — крупное зональное экосистемное подразделение (совокупность экосистем одной природно-климатической зоны), характеризующееся сходными климатическими условиями и определенным типом растительности и животного мира.",
+    "uz_term": "Biom",
+    "uz_definition": "Biom — o'xshash iqlim va geografik sharoitga ega bo'lgan tabiiy-hududiy zonalardagi yirik ekotizimlar hamda tirik organizmlar (o'simlik va hayvonot dunyosi) jamoalarining yirik majmuidir.",
+    "qq_term": "Biom",
+    "qq_definition": "Biom — bul bir-birine uqsas ıqlım, topıraq hám geografiyalıq sharayatlarda qáliplesken, jer betiniń úlken aymaǵın qamtıǵan ekosistemalardıń (ósimlikler hám haywanlar dnyasınıń) jıyındısıdır."
+  },
+  {
+    "en_term": "Abiotic factors",
+    "en_definition": "Abiotic factors — the non-living chemical and physical parts of the environment that affect living organisms and the functioning of ecosystems.",
+    "ru_term": "Абиотические факторы",
+    "ru_definition": "Абиотические факторы — это компоненты и свойства неживой природы (физические и химические условия), которые прямо или косвенно влияют на живые организмы.",
+    "uz_term": "Abiotik omillar",
+    "uz_definition": "Abiotik omillar — tirik organizmlarning hayot faoliyati va hududlar bo'ylab tarqalishiga ta'sir ko'rsatadigan jonsiz tabiatning barcha fizikaviy va kimyoviy sharoitlari majmuidir.",
+    "qq_term": "Abiotikalıq faktorlar",
+    "qq_definition": "Abiotikalıq faktorlar — bul tiri organizmlerdiń jasawına hám tarqalıwına tásir kórsetetuǵın tiri emes (jonsız) tabiyattıń fizikalıq hám ximiyalıq sharayatlarınıń jıynandısıdır."
+  },
+  {
+    "en_term": "Biotic factors",
+    "en_definition": "Biotic factors — the living components of an environment, including any living organism that shapes its environment and interacts with other organisms.",
+    "ru_term": "Биотические факторы",
+    "ru_definition": "Биотические факторы — это совокупность влияний жизнедеятельности одних организмов на жизнедеятельность других, а также на неживую среду обитания.",
+    "uz_term": "Biotik omillar",
+    "uz_definition": "Biotik omillar — tirik organizmlarning bir-biriga ko'rsatadigan ta'siri hamda ularning o'zaro murakkab munosabatlari (raqobat, yirtqichlik, simbioz va b.) majmuidir.",
+    "qq_term": "Biotikalıq faktorlar",
+    "qq_definition": "Biotikalıq faktorlar — bul tiri organizmlerdiń bir-birine kórsetetuǵın tásirleri hám óz-ara múnasibetleriniń (simbioz, parazitizm, berekete jasaw, básekileslik) jıynandısıdır."
+  },
+  {
+    "en_term": "Anthropogenic factor",
+    "en_definition": "Anthropogenic factor — environmental changes or influences caused or produced by human activity, distinguishing them from natural processes.",
+    "ru_term": "Антропогенный фактор",
+    "ru_definition": "Антропогенный фактор — это экологический фактор, обусловленный различными формами деятельности человеческого общества, которые изменяют природу как среду обитания живых организмов.",
+    "uz_term": "Antropogen omil",
+    "uz_definition": "Antropogen omil — inson faoliyati natijasida yuzaga keladigan, atrof-muhitga, o'simlik va hayvonot dunyosiga to'g'ridan-to'g'ri yoki bilvosita ta'sir ko'rsatadigan omillar majmuidir.",
+    "qq_term": "Antropogen faktor",
+    "qq_definition": "Antropogen faktor — bul insannıń xizmeti, onıń tábiyatqa hám qorshaǵan ortalıqqa kórsetetuǵın tuwrıdan-tuwrı yamasa bilvasta tásirleriniń jıynandısıdır."
+  },
+  {
+    "en_term": "Evolution",
+    "en_definition": "Evolution — the process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth through genetic changes over generations.",
+    "ru_term": "Эволюция",
+    "ru_definition": "Эволюция (биологическая) — это естественный процесс исторического развития живой природы, сопровождающийся изменением генетического состава популяций, формированием адаптаций, видообразованием и вымиранием видов.",
+    "uz_term": "Evolutsiya",
+    "uz_definition": "Evolutsiya — tirik tabiatning uzoq vaqt davomida oddiydan murakkabga qarab qaytmas tarzda, tarixiy rivojlanib va o'zgarib borishini ifodalovchi tabiiy jarayondir.",
+    "qq_term": "Evolyuciya",
+    "qq_definition": "Evolyuciya — bul tiri tábiyattıń ástelik penen, uzaq waqıt dawamında quralıwınan baslap barlıq ávladlar dawamında hár tárepleme rawajlanıp, ózgerip barıwınıń tábiyiy procesidir."
+  },
+  {
+    "en_term": "Flora",
+    "en_definition": "Flora — the plants of a particular region, habitat, or geological period, collectively representing the entire plant life of that specific area.",
+    "ru_term": "Флора",
+    "ru_definition": "Флора — исторически сложившаяся совокупность видов растений, обитающих на определённой географической территории или входивших в её состав в прошедшие геологические эпохи.",
+    "uz_term": "Flora",
+    "uz_definition": "Flora — muayyan geografik hududda yoki geologik davrda tabiiy ravishda o'sadigan barcha o'simlik turlarining tarixiy tarkib topgan majmuidir.",
+    "qq_term": "Flora",
+    "qq_definition": "Flora — bul belgili bir geografiyalıq aymaqta yamasa geologiyalıq dáwirde tábiyiy halda ósetuǵın barlıq ósimlikler túrleriniń jıynandısıdır."
+  },
+  {
+    "en_term": "Fauna",
+    "en_definition": "Fauna — the animals of a particular region, habitat, or geological period, collectively representing the entire animal life of that specific area.",
+    "ru_term": "Фауна",
+    "ru_definition": "Фауна — исторически сложившаяся совокупность видов животных, обитающих на определённой географической территории или населявших её в прошлые геологические эпохи.",
+    "uz_term": "Fauna",
+    "uz_definition": "Fauna — muayyan geografik hududda yoki geologik davrda yashaydigan barcha hayvon turlarining tarixiy tarkib topgan majmuidir.",
+    "qq_term": "Fauna",
+    "qq_definition": "Fauna — bul belgili bir geografiyalıq aymaqta yamasa geologiyalıq dáwirde jasaytuǵın barlıq haywanlar túrleriniń jıynandısıdır."
+  },
+  {
+    "en_term": "Producers",
+    "en_definition": "Producers (Primary producers / Autotrophs) — organisms in an ecosystem that produce biomass from inorganic compounds, mostly using sunlight through photosynthesis (such as green plants and algae).",
+    "ru_term": "Продуценты",
+    "ru_definition": "Продуценты (Производители) — автотрофные организмы, способные синтезировать органические вещества из неорганических с использованием энергии (солнечной при фотосинтезе или химической при хемосинтезе).",
+    "uz_term": "Produsentlar",
+    "uz_definition": "Produsentlar (Yaratuvchilar) — noorganik moddalardan organik moddalar sintez qila oladigan, ekotizimda birlamchi mahsulotni yaratuvchi avtotrof organizmlardir (asosan yashil o'simliklar va suvo'tlar).",
+    "qq_term": "Produsentler",
+    "qq_definition": "Produsentler (Avtotroflar) — bul quyash nurı energiyasınan (fotosintez) yamasa ximiyalıq reakciyalardan (xemosintez) paydalanyp, jonsız tabiyattıń mineral moddalarınan ózlerine kerekli organikallıq ozuqalardı ózi jarata alatuǵın tiri organizmlerdir."
+  },
+  {
+    "en_term": "Consumers",
+    "en_definition": "Consumers (Heterotrophs) — organisms that cannot synthesize their own food and must receive energy by consuming other organisms (plants or animals) within a food chain.",
+    "ru_term": "Консументы",
+    "ru_definition": "Консументы (Потребители) — гетеротрофные организмы, потребляющие готовые органические вещества, созданные продуцентами, и не способные самостоятельно производить их из неорганических соединений.",
+    "uz_term": "Konsumentlar",
+    "uz_definition": "Konsumentlar (Iste'molchilar) — tayyor organik moddalar bilan oziqlanadigan, ya'ni produsentlar (o'simliklar) yoki boshqa hayvonlarni yeb kun kechiradigan geterotrof organizmlardir (barcha hayvonlar va insonlar).",
+    "qq_term": "Konsumentler",
+    "qq_definition": "Konsumentler (Geterotroflar) — bul ózleri organikallıq moddalardı sintezley almaytuǵın, sonlıqtan tayar organikallıq moddalar (ósimlikler yamasa basqa haywanlar) menen azıqlanatuǵın organizmlerdir."
+  },
+  {
+    "en_term": "Decomposers",
+    "en_definition": "Decomposers (Reducers) — organisms (such as bacteria and fungi) that break down dead or decaying organisms, carrying out the natural process of decomposition and recycling nutrients back into the soil.",
+    "ru_term": "Редуценты",
+    "ru_definition": "Редуценты (Деструкторы) — организмы (в основном бактерии и грибы), разрушающие отмершие остатки живых существ, превращая их в неорганические и простейшие органические соединения.",
+    "uz_term": "Redutsentlar",
+    "uz_definition": "Redutsentlar (Parchalovchilar) — o'lik organik qoldiqlarni (o'simlik va hayvon qismlarini) parchalab, ularni oddiy noorganik (mineral) moddalarga aylantiruvchi geterotrof organizmlardir.",
+    "qq_term": "Reducentler",
+    "qq_definition": "Reducentler — bul ólik organizmlerdiń (ósimlik hám haywan qaldıqlarınıń) quramalı organikallıq moddaların ápiwayı mineral birikpelerge shekem parchalawshı tiri organizmlerdir."
+  },
+  {
+    "en_term": "Autotrophs",
+    "en_definition": "Autotrophs (from Greek autos — self, and trophe — nourishing) — organisms that can produce their own food using light, water, carbon dioxide, or other chemicals (often referred to as primary producers).",
+    "ru_term": "Автотрофы",
+    "ru_definition": "Автотрофы (Автотрофные организмы) — организмы, синтезирующие органические вещества из неорганических соединений с использованием энергии света (фотосинтез) или химической энергии (хемосинтез).",
+    "uz_term": "Avtotroflar",
+    "uz_definition": "Avtotroflar (grekcha autos — o'zi, trophe — oziqlanish) — noroganik moddalardan (karbonat angidrid, suv, minerallar) o'z hayot faoliyati uchun zarur bo'lgan organik moddalarni mustaqil sintez qila oladigan organizmlardir.",
+    "qq_term": "Avtotroflar",
+    "qq_definition": "Avtotroflar (grekse autos — ózi, trophe — azıqlanıw) — bul jonsız tabiyattıń mineral moddalarınan (karbonat angidrid, suw, duzlar) óz turalıq xizmeti ushın kerekli barlıq organikallıq zattı ózi sintezley alatuǵın organizmlerdir."
+  },
+  {
+    "en_term": "Heterotrophs",
+    "en_definition": "Heterotrophs (from Greek heteros — other, and trophe — nourishing) — organisms that cannot produce their own food and must rely on consuming other organisms (plants or animals) for energy and nutrients.",
+    "ru_term": "Гетеротрофы",
+    "ru_definition": "Гетеротрофы (Гетеротрофные организмы) — организмы, которые не могут синтезировать органические вещества из неорганических, а используют для своего питания готовые органические соединения, созданные другими существами.",
+    "uz_term": "Geterotroflar",
+    "uz_definition": "Geterotroflar (grekcha heteros — boshqa, trophe — oziqlanish) — o'zi mustaqil ravishda organik moddalar sintez qila olmaydigan, tayyor organik moddalarni iste'mol qilish hisobiga kun kechiradigan organizmlardir.",
+    "qq_term": "Geterotroflar",
+    "qq_definition": "Geterotroflar (grekse heteros — basqa, trophe — azıqlanıw) — bul ózleri organikallıq moddalardı sintezley almaytuǵın, sol sebepren basqa organizmler tárepinen tayarlanǵan organikallıq moddalardı jep azıqlanatuǵın tiri organizmlerdir."
+  },
+  {
+    "en_term": "Parasitism",
+    "en_definition": "Parasitism — a type of symbiotic relationship between organisms of different species where one organism, the parasite, lives on or inside another organism, the host, causing it some harm, and is structurally adapted to this way of life.",
+    "ru_term": "Паразитизм",
+    "ru_definition": "Паразитизм — это форма взаимоотношений между организмами разных видов, при которой один из них (паразит) использует другого (хозяина) в качестве источника питания и среды обитания, возлагая на него полностью или частично регуляцию своих отношений с окружающей средой.",
+    "uz_term": "Parazitizm",
+    "uz_definition": "Parazitizm — har xil turga mansub organizmlarning o'zaro munosabat shakli bo'lib, bunda bir organizm (parazit) ikkinchi organizmdan (xo'jayindan) yashash muhiti va oziq manbai sifatida foydalanadi hamda unga sezilarli zarar yetkazadi.",
+    "qq_term": "Parazitizm",
+    "qq_definition": "Parazitizm — bul hár qıylı túrge kiretuǵın organizmlerdiń óz-ara múnasibet forması bolıp, bunda bir organizm (parazit) ekinshi organizmdi (xojayındı) jasaw ortalıǵı hám azıq deregi sıpatında paydalanadı hám oǵan ziyan keltiredi (biraq ádette onı birden óltirmeydi)."
+  },
+  {
+    "en_term": "Predation",
+    "en_definition": "Predation — a biological interaction where one organism, the predator, kills and eats another organism, its prey. It is one of a family of common feeding behaviors that includes parasitism and herbivory.",
+    "ru_term": "Хищничество",
+    "ru_definition": "Хищничество — это трофическая форма взаимоотношений между организмами разных видов, при которой один из них (хищник) атакует другого (жертву) и питается его плотью, то есть убивает ради поедания.",
+    "uz_term": "Yirtqichlik",
+    "uz_definition": "Yirtqichlik — geterotrof organizmlar o'zaro munosabatlarining turi bo'lib, bunda bir organizm (yirtqich) boshqa bir organizmni (o'ljani) tutib, o'ldiradi va uni oziq sifatida iste'mol qiladi.",
+    "qq_term": "Predatorlıq",
+    "qq_definition": "Predatorlıq (Jırtqıshlıq) — bul tiri organizmlerdiń óz-ara múnasibet forması bolıp, bunda bir túrge kiretuǵın organizm (jırtqısh) ekinshi túrge kiretuǵın organizmdi (jımdı yamasa qurbandı) óltiredi hám onı azıq sıpatında jeydi."
+  },
+  {
+    "en_term": "Food web",
+    "en_definition": "Food web (Consumer-resource system) — the natural interconnection of food chains and a graphical representation of what-eats-what in an ecological community, showing the complex feeding relationships in an ecosystem.",
+    "ru_term": "Пищевая сеть",
+    "ru_definition": "Пищевая (трофическая) сеть — это сложное сплетение множества цепей питания в конкретной экосистеме, отражающее реальные пищевые связи между всеми организмами, где один и тот же вид может входить в разные цепи.",
+    "uz_term": "Oziqa to'ri",
+    "uz_definition": "Oziqa to'ri — muayyan ekotizimdagi barcha oziqa zanjirlarining o'zaro kesishishi va bir-biriga murakkab tarzda bog'lanishi natijasida yuzaga keladigan tabiiy tarmoqdir.",
+    "qq_term": "Azıqlanıw torı",
+    "qq_definition": "Azıqlanıw torı — bul bir ekosistemadaǵı barlıq hár qıylı azıqlanıw shınjırlarınıń óz-ara kesisip, quramalı túrde bir-birine baylanısıwınan payda bolǵan ulıwma sistema."
+  },
+  {
+    "en_term": "Endemic species",
+    "en_definition": "Endemic species — plants or animals that exist only in one specific, limited geographic region and cannot be found naturally anywhere else on Earth (e.g., an island, a particular mountain range, or a single body of water).",
+    "ru_term": "Эндемичные виды",
+    "ru_definition": "Эндемики (Эндемичные виды) — это виды растений или животных, представители которых обитают в пределах относительно ограниченного ареала и не встречаются больше нигде в мире (естественные обитатели только одной зоны).",
+    "uz_term": "Endemik turlar",
+    "uz_definition": "Endemik turlar (Endemiklar) — Yer yuzida faqatgina muayyan cheklangan geografik hududda (bitta mamlakat, tog' tizmasi, orol yoki ko'lda) tabiiy ravishda tarqalgan, dunyoning boshqa hech bir joyida uchramaydigan o'simlik va hayvon turlaridir.",
+    "qq_term": "Endemik túrler",
+    "qq_definition": "Endemik túrler (Endemikler) — bul Jer sharında tek ǵana belgili bir kishi geografiyalıq aymaqta (máselen, bir atawda, bir taw dizbeginde yamasa bir kól ishinde) tábiyiy halda jasaytuǵın, basqa hesh bir jerde ushıraspaytuǵın ósimlik yamasa haywan túrleridir."
+  },
+  {
+    "en_term": "Invasive species",
+    "en_definition": "Invasive species — an introduced, non-native organism (disease, parasite, plant, or animal) that begins to spread or expand its range from the site of its original introduction and causes harm to the environment, the economy, or human health.",
+    "ru_term": "Инвазивные виды",
+    "ru_definition": "Инвазивные (инвазионные) виды — это чужеродные для данной территории виды растений, животных или микроорганизмов, распространение которых угрожает биологическому разнообразию и стабильности местной экосистемы, нанося экологический или экономический ущерб.",
+    "uz_term": "Invaziv turlar",
+    "uz_definition": "Invaziv turlar — muayyan hudud uchun yerli hisoblanmagan (chetdan kelib qolgan), yangi sharoitda juda tez ko'payib, mahalliy ekotizimlar muvozanatiga, yerli turlarga, iqtisodiyotga va inson salomatligiga jiddiy zarar yetkazadigan yot organizmlardir.",
+    "qq_term": "Invaziv túrler",
+    "qq_definition": "Invaziv túrler — bul jergilikli bolmaǵan (basqa aymaqtan alıp kelingen yamasa ózi ótken), jańa ortalıqta tez kóbeyip, sol jerdiń jergilikli (aborigen) ekosistemasına, tábiyatına, ekonomikasına hám adam salomatlıǵına úlken ziyan keltiretuǵın ósimlik, haywan yamasa mikroorganizmlerdir."
+  },
+  {
+    "en_term": "Red Data Book",
+    "en_definition": "The Red Data Book (or Red List) — a public document or state record established for documenting rare and endangered species of animals, plants, and fungi, as well as some local subspecies, that exist within the territory of the state or country.",
+    "ru_term": "Красная книга",
+    "ru_definition": "Красная книга — официальный государственный документ, содержащий аннотированный список редких и находящихся под угрозой исчезновения видов животных, растений и грибов, а также сведения о текущем состоянии этих видов и мерах по их охране.",
+    "uz_term": "Qizil kitob",
+    "uz_definition": "Qizil kitob — tabiatda soni keskin kamayib ketgan, yo'qolib ketish xavfi ostida turgan va davlat muhofazasiga olingan noyob o'simlik, hayvonot va zamburug'lar turlarining rasmiy ro'yxati hamda huquqiy-ilmiy hujjatidir.",
+    "qq_term": "Qızıl kitap",
+    "qq_definition": "Qızıl kitap — bul tábiyiy halda sanı júdá azayıp ketken, joq bolıp ketiw qáwipi astında turǵan hám mámleket tárepinen qorǵawǵa alınǵan ósimlikler, haywanlar hám zamburuǵlar túrleriniń rásmiy mámleketlik dizimi hám hújjetidir."
+  },
+  {
+    "en_term": "Microorganisms",
+    "en_definition": "Microorganisms (Microbes) — microscopic organisms that exist as a single cell or cell clusters, which are too small to be seen clearly by the naked eye. They include bacteria, archaea, viruses, fungi, and prions.",
+    "ru_term": "Микроорганизмы",
+    "ru_definition": "Микроорганизмы (Микробы) — это собирательное название группы живых организмов, которые слишком малы для того, чтобы быть увиденными невооружённым глазом (их размеры менее 0,1 мм). К ним относятся бактерии, археи, некоторые грибы и простейшие.",
+    "uz_term": "Mikroorganizmlar",
+    "uz_definition": "Mikroorganizmlar (Mikroblar) — faqatgina mikroskop ostida ko'rish mumkin bo'lgan, juda mitti o'lchamga ega (asosan bir hujayrali) tirik organizmlarning (bakteriyalar, mikroskopik zamburug' va suvo'tlar) ulkan guruhidir.",
+    "qq_term": "Mikroorganizmler",
+    "qq_definition": "Mikroorganizmler (Mikroblar) — bul tek ǵana mikroskop (úlkeytip kórsetiwshi ásbap) járdemi menen kóriwge bolatuǵın, júdá mitti, ádette bir kletkalı bolǵan tiri organizmlerdiń úlken gruppasıdır."
+  },
+  {
+    "en_term": "Organism",
+    "en_definition": "Organism — an individual animal, plant, or single-celled life form that is capable of growing, reproducing, and maintaining homeostasis as an independent living system.",
+    "ru_term": "Организм",
+    "ru_definition": "Организм — это живое существо, обладающее совокупностью свойств, отличающих его от неживой материи (обмен веществ, рост, размножение, раздражимость и др.), и функционирующее как единая целостная система.",
+    "uz_term": "Organizm",
+    "uz_definition": "Organizm — tiriklikning barcha asosiy xususiyatlariga (moddalar almashinuvi, o'sish, rivojlanish, ko'payish va b.) ega bo'lgan, mustaqil ravishda mavjud bo'la oladigan har qanday tirik mavjudot yoki biologik tizimdir.",
+    "qq_term": "Organizm",
+    "qq_definition": "Organizm — bul tiri tábiyattıń barlıq tiykargı qásiyetlerine (zat almasıwı, ósiw, kóbeyiw, qozǵalıw, tásirleniwshilik h.t.b.) iye bolǵan, óz aldına turaqlı jasay alatuǵın hám kletkalıq quramnan ibarat bolǵan kishkene bir tiri pútinlik (sistema)."
+  },
+  {
+    "en_term": "Species",
+    "en_definition": "Species — the principal natural unit of biological classification, consisting of a group of individual organisms that are genetically similar, share common characteristics, and are capable of interbreeding to produce fertile offspring.",
+    "ru_term": "Вид",
+    "ru_definition": "Вид (биологический) — основная структурная и таксономическая единица в системе живых организмов, представляющая собой совокупность особей, сходных по морфологическим и физиологическим признакам, способных скрещиваться и давать плодовитое потомство.",
+    "uz_term": "Tur",
+    "uz_definition": "Tur — kelib chiqishi, tashqi va ichki tuzilishi, hayotiy jarayonlari o'xshash bo'lgan, tabiatda muayyan areatni egallagan, o'zaro erkin chatishib, serpusht avlod qoldira oladigan individlar majmuidir (biologik klassifikatsiyaning asosiy birligi).",
+    "qq_term": "Túr",
+    "qq_definition": "Túr (Biologiyalıq túr) — bul kelip shıǵısı, sırtqı hám ishki qurlısı (morfologiyası), jasaw sharayatı bir-birine uqsas bolǵan, óz-ara erkin shaǵılısa alatuǵın hám ózinen keyin turaqlı ávlad qaldıratuǵın organizmlerdiń eń tiykargı sistemalıq (klassifikaciyalıq) birligidir."
+  },
+  {
+    "en_term": "Pollution",
+    "en_definition": "Pollution — the introduction of harmful materials, substances, or energy forms (such as heat, light, or noise) into the natural environment, causing adverse changes, instability, and harm to ecosystems and living organisms.",
+    "ru_term": "Загрязнение",
+    "ru_definition": "Загрязнение (окружающей среды) — это привнесение в окружающую среду или возникновение в ней новых, обычно не характерных для неё физических, химических или биологических агентов, приводящее к негативным последствиям для экосистем и человека.",
+    "uz_term": "Ifloslanish",
+    "uz_definition": "Ifloslanish (Atrof-muhit ifloslanishi) — inson faoliyati yoki tabiiy jarayonlar natijasida atrof-muhitga (havo, suv, tuproqqa) uning tabiiy xususiyatlarini o'zgartiruvchi va tirik organizmlarga zarar yetkazuvchi yot moddalar yoki energiyaning (issiqlik, shovqin, radiatsiya) kirib kelishidir.",
+    "qq_term": "Pataslanıw",
+    "qq_definition": "Pataslanıw (Qorshaǵan ortalıqtıń pataslanıwı) — bul inson xizmeti yamasa tábiyiy qubılıslar nátiyjesinde qorshaǵan ortalıqqa (hawa, suw, topıraqqa) jergilikli normalardan artıqsha muǵdardagı ziyanlı ximiyalıq, fizikalıq yamasa biologiyalıq elementlerdiń qosılıwı hám ortalıqtıń buzılıwıdır."
+  },
+  {
+    "en_term": "Smog",
+    "en_definition": "Smog (a portmanteau of smoke and fog) — a type of intense air pollution that reduces visibility, consisting of a mixture of smoke, gases, and fog, often found in large cities and industrial areas as a result of vehicle and factory emissions.",
+    "ru_term": "Смог",
+    "ru_definition": "Смог — это чрезмерное загрязнение воздуха вредными веществами (выхлопными газами, дымом, гарью, пылью), выделяющимися в процессе деятельности человека в крупных городах и промышленных центрах при определенных погодных условиях.",
+    "uz_term": "Smog",
+    "uz_definition": "Smog (Zaharli tuman) — sanoat korxonalari, transport vositalari chiqindi gazlari hamda chang-tutunlarning havoning tabiiy namligi (tuman) bilan birikishi natijasida yirik shaharlar ustida hosil bo'ladigan quyuq, zaharli va dim havo qatlamidir.",
+    "qq_term": "Smog",
+    "qq_definition": "Smog (inglizshe smoke — tutın hám fog — tuman) — bul sanaat kárxanaları, zavodlar hám transportlardan shıqqan gazler, shańlar hám tutınlardıń hawa tumanı menen qosılıp, qala ústinde qáliplestiretuǵın qoyas, ziyanlı hám qara-ko'k reńdegi hawa qatlamıdır."
+  },
+  {
+    "en_term": "Global warming",
+    "en_definition": "Global warming — the long-term heating of Earth's climate system observed since the pre-industrial period due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels.",
+    "ru_term": "Глобальное потепление",
+    "ru_definition": "Глобальное потепление — это долгосрочное повышение средней температуры климатической системы Земли (атмосферы и Мирового океана), происходящее в основном из-за антропогенных выбросов парниковых газов.",
+    "uz_term": "Global isish",
+    "uz_definition": "Global isish — inson faoliyati (qazilma yoqilg'ilarni yoqish, sanoat) oqibatida atmosferada issiqxona gazlari to'planishi tufayli Yer atmosferasi va Jahon okeani o'rtacha yillik haroratining asrlar davomida muttasil ko'tarilib borishidir.",
+    "qq_term": "Global jılınıw",
+    "qq_definition": "Global jılınıw — bul insan xizmeti (sanaat, qazılma baylıqlardı jaǵıw, tokaylardı kesiw) nátiyjesinde atmosfera quramında parnik gazleriniń artıp ketiwi esabından Jer atmosferası hám Dúnyalıq okeannıń ortasha jıllıq haroratınıń ástelik penen turaqlı túrde kótirilip barıwı procesidir."
+  },
+  {
+    "en_term": "Ozone depletion",
+    "en_definition": "Ozone depletion — the gradual thinning of Earth's ozone layer in the upper atmosphere (stratosphere) caused by the release of chemical compounds containing gaseous chlorine or bromine from industry and other human activities.",
+    "ru_term": "Разрушение озонового слоя",
+    "ru_definition": "Разрушение озонового слоя — это постепенное истощение озонового экрана Земли в стратосфере, происходящее под влиянием антропогенных факторов (в основном из-за выбросов фреонов, содержащих хлор и бром), что приводит к увеличению проникновения ультрафиолетового излучения.",
+    "uz_term": "Ozon qatlamining yemirilishi",
+    "uz_definition": "Ozon qatlamining yemirilishi — atmosferaning stratosfera qatlamidagi Yer hayotini quyoshning zararli ultrabinafsha nurlaridan himoya qiluvchi ozon (O3) qobig'ining inson tomonidan chiqarilgan xlorftoruglerodlar (freonlar) ta'sirida kamayishi va teshiklar hosil bo'lishi jarayonidir.",
+    "qq_term": "Ozon qatlamınıń tawsılıwı",
+    "qq_definition": "Ozon qatlamınıń tawsılıwı — bul atmosferanıń stratosfera qatlamındaǵı Quyashtıń ziyanlı ultrabinafsha (UV) sánlerin uslap qalıwshı ozon gazı (O3) qatlamınıń ximiyalıq zatlar (tiykarınan xlor hám brom birikpeleri — freonlar) tásirinde juqalasıwı hám buzulıwı procesidir."
+  },
+  {
+    "en_term": "Carbon dioxide emissions",
+    "en_definition": "Carbon dioxide (CO2) emissions — the release of carbon dioxide into the atmosphere, primarily caused by human activities such as burning fossil fuels (like coal, oil, and natural gas), deforestation, and industrial processes.",
+    "ru_term": "Выбросы углекислого газа",
+    "ru_definition": "Выбросы углекислого газа (эмиссия CO2) — это поступление в атмосферу Земли углекислого газа, образующегося в основном в результате сжигания ископаемого топлива (угля, нефти, газа), производства цемента и вырубки лесов.",
+    "uz_term": "Uglerod dioksidi emissiyasi",
+    "uz_definition": "Uglerod (karbonat angidrid) emissiyasi — sanoat korxonalari, transport vositalari va qazilma yoqilg'ilarni (ko'mir, neft, gaz) yoqish natijasida atmosferaga chiqadigan karbonat angidrid (CO2) gazining umumiy miqdoridir.",
+    "qq_term": "Kómirshil gaz emissiyası",
+    "qq_definition": "Kómirshil gaz emissiyası — bul kómir, neft, tábiyiy gaz sıyaqlı qazılma baylıqlardı jaǵıw, sanaat kárxanaları hám transportlar xizmeti nátiyjesinde atmosfera qatlamına karbonat angidrid (CO2) gaziniń shıǵarılıwı hám tarqalıwı muǵdarıdır."
+  },
+  {
+    "en_term": "Toxic waste",
+    "en_definition": "Toxic waste — any unwanted material in all forms (solid, liquid, or gas) that can cause harm, death, or injury to living organisms and the environment, usually generated by industrial, medical, or chemical processes.",
+    "ru_term": "Токсичные отходы",
+    "ru_definition": "Токсичные (ядовитые) отходы — это отходы производства и потребления, содержащие вещества, которые обладают опасными свойствами (токсичностью, взрывоопасностью, высокой реакционной способностью) и способны нанести вред человеку и окружающей среде.",
+    "uz_term": "Toksik chiqindilar",
+    "uz_definition": "Toksik (Zaharli) chiqindilar — tarkibida tirik organizmlar va inson salomatligi uchun bevosita xavf tug'diruvchi zaharli kimyoviy moddalar, og'ir metallar yoki radioaktiv elementlar bo'lgan sanoat, qishloq xo'jaligi va tibbiyot chiqindilaridir.",
+    "qq_term": "Toksik qaldıqlar",
+    "qq_definition": "Toksik qaldıqlar — bul quramında tiri organizmler, adam salomatlıǵı hám tábiyat ushın júdá qáwipti bolǵan ximiyalıq, radiaciyalıq yamasa biologiyalıq ziyanlı elementleri bar bolǵan kán-sanaat, zavod hám medicinalıq qaldıqlardır."
+  },
+  {
+    "en_term": "Plastic pollution",
+    "en_definition": "Plastic pollution — the accumulation of plastic objects and particles (e.g., plastic bottles, bags, and microplastics) in the Earth's environment that adversely affects wildlife, wildlife habitat, and humans.",
+    "ru_term": "Пластиковое загрязнение",
+    "ru_definition": "Пластиковое загрязнение — это процесс накопления продуктов из пластмасс (пластиковых бутылок, пакетов, микропластика) в окружающей среде, который отрицательно влияет на дикую природу, среду обитания человека и животных.",
+    "uz_term": "Plastik ifloslanish",
+    "uz_definition": "Plastik ifloslanish — atrof-muhitda (ayniqsa, Dunyo okeanida va tuproqda) plastik mahsulotlar (butilkalar, paketlar) hamda mikroplastiklarning haddan tashqari to'planib, yovvoyi tabiat, ekotizimlar va inson salomatligiga zarar yetkazishi jarayonidir.",
+    "qq_term": "Plastik pataslanıw",
+    "qq_definition": "Plastik pataslanıw — bul jer betinde, ásirse Dúnyalıq okeanlar, teńizler hám qurqlıqta plastik buyımlardıń (paketler, butilkalar, mikroplastikler) turaqlı jıynalıp qalıwı hám tábiyiy ekosistemalardı, haywanat dúnyasın pataslawı procesidir."
+  },
+  {
+    "en_term": "Noise pollution",
+    "en_definition": "Noise pollution (Sound pollution) — the propagation of unwanted or harmful noise with harmful impacts on the activity of human or animal life, primarily caused by machines, transport, and propagation systems (measured in decibels).",
+    "ru_term": "Шумовое загрязнение",
+    "ru_definition": "Шумовое (акустическое) загрязнение — это раздражающий шум антропогенного происхождения (транспорт, авиация, промышленные предприятия, стройки), нарушающий жизнедеятельность живых организмов и человека, приводящий к повышенной утомляемости и болезням.",
+    "uz_term": "Shovqin ifloslanishi",
+    "uz_definition": "Shovqinli (Akustik) ifloslanish — inson, transport vositalari va sanoat korxonalari faoliyati natijasida yuzaga keladigan, tabiiy tovush me'yorlaridan yuqori bo'lgan va tirik organizmlarga noqulaylik hamda zarar yetkazuvchi shovqinlar majmuidir.",
+    "qq_term": "Dawıs pataslanıwı",
+    "qq_definition": "Sırtqı dawıs pataslanıwı (Akustikalıq pataslanıw) — bul qaladaǵı transportlar, zavodlar, qurılıslar yamasa turmıslıq texnikalardan shıǵatuǵın, jergilikli hám tábiyiy fon normalarınan joqarı bolǵan, adam salomatlıǵı hám haywanlar turalıq xizmetine tásir etiwshi ziyanlı dıbıslar dizbegidir."
+  },
+  {
+    "en_term": "Radiation",
+    "en_definition": "Radiation (Ionizing radiation) — the emission or transmission of energy in the form of waves or particles through space or a material medium, which can damage living tissue and DNA structures by knocking electrons out of atoms.",
+    "ru_term": "Радиация",
+    "ru_definition": "Радиация (Ионизирующее излучение) — это поток элементарных частиц или электромагнитных волн, возникающий при распаде нестабильных ядер атомов, способный ионизировать вещество и вызывать разрушение живых клеток.",
+    "uz_term": "Radiatsiya",
+    "uz_definition": "Radiatsiya (Ionlashtiruvchi nurlanish) — beqaror atom yadrolarining parchalanishi natijasida kosmosga yoki atrof-muhitga to'lqinlar yoki zarrachalar shaklida tarqaladigan, moddalarni ionlashtirish xususiyatiga ega bo'lgan yuqori energiyali nurlanish oqimidir.",
+    "qq_term": "Radiaciya",
+    "qq_definition": "Radiaciya (Ionlastırıwshı nurlanıw) — bul turaqsız atom yadrolarınıń parchalanıwı nátiyjesinde rawajlanatuǵın hám keńislikte tolıq quvvatlı sánler (alfa, beta, gamma nurları) yamasa bólekler túrinde tarqalatun energiya aǵımıdır."
+  },
+  {
+    "en_term": "Photochemical smog",
+    "en_definition": "Photochemical smog — a type of air pollution produced when primary pollutants (nitrogen oxides and volatile organic compounds from vehicles) react with each other in the presence of sunlight, creating a hazardous mix of secondary pollutants like ground-level ozone.",
+    "ru_term": "Фотохимический смог",
+    "ru_definition": "Фотохимический смог — это затуманивание атмосферы, возникающее в результате химических реакций между оксидами азота и углеводородами из выхлопных газов под воздействием солнечной радиации, приводящее к образованию токсичного озона на уровне земли.",
+    "uz_term": "Fotokimyoviy smog",
+    "uz_definition": "Fotokimyoviy smog — avtomobillar va sanoat chiqindi gazlarining (azot oksidlari va uglevodorodlar) quyosh nurlari (ultrabinafsha nurlar) ta'sirida o'zaro kimyoviy reaksiyaga kirishishi natijasida hosil bo'ladigan zaharli va ko'gish tusdagi tumanli havo qatlamidir.",
+    "qq_term": "Fotokimyoviy smog",
+    "qq_definition": "Fotokimyoviy smog — bul transport hám zavodlardan hawaǵa shıqqan birlemshi gazlerdiń (azot oksidleri hám uglevodorodlar) Quyashtıń kúshli ultrabinafsha sánleri tásirinde óz-ara ximiyalıq reakciyaǵa kirisiwı nátiyjesinde payda bolatun ziyanlı, tutınlı tuman qatlamıdır."
+  },
+  {
+    "en_term": "Eutrophication",
+    "en_definition": "Eutrophication — the process by which a body of water becomes overly enriched with nutrients (like nitrates and phosphates), leading to excessive growth of algae, depletion of dissolved oxygen, and severe degradation of water quality and aquatic life.",
+    "ru_term": "Эвтрофикация",
+    "ru_definition": "Эвтрофикация — это процесс ухудшения качества воды из-за избыточного поступления в водоём биогенных элементов (в основном азота и фосфора из удобрений), что приводит к бурному цветению водорослей, дефициту кислорода и гибели водной фауны.",
+    "uz_term": "Evtrofikatsiya",
+    "uz_definition": "Evtrofikatsiya — oqova suvlar va o'g'itlar tarkibidagi azot hamda fosfor birikmalarining suv havzalariga ko'p tushishi natijasida suv o'tlarining haddan tashqari ko'payib ketishi, suvda kislorod yetishmasligi va baliqlarning ommaviy qirilishi jarayonidir.",
+    "qq_term": "Eutrofizaciya",
+    "qq_definition": "Eutrofizaciya — bul suw basinsına (kól, suw saqlagısh, teńiz) mineral zatlardıń, ásirse azot hám fosfor birikpeleriniń (awıl xojalıǵı dárileri hám tólendilerinen) shamadan tıs kóp qosılıwı nátiyjesinde suw qatlamınıń 'biywpa' bolıp barıwı procesidir."
+  },
+  {
+    "en_term": "Microplastics",
+    "en_definition": "Microplastics — extremely small pieces of plastic debris in the environment, measuring less than 5 millimeters in length, resulting from the disposal and breakdown of consumer products and industrial waste, posing a significant threat to ecosystems.",
+    "ru_term": "Микропластик",
+    "ru_definition": "Микропластик — это мелкие частицы пластика (размером менее 5 миллиметров), образующиеся при распаде крупного пластикового мусора или целенаправленно производимые для промышленности, являющиеся стойким глобальным загрязнителем.",
+    "uz_term": "Mikroplastik",
+    "uz_definition": "Mikroplastik — o'lchami 5 millimetrdan kichik bo'lgan, plastik chiqindilarining emirilishi yoki sanoat ishlab chiqarishi natijasida hosil bo'ladigan, atrof-muhitda va oziq-ovqat zanjirida to'planib boradigan mayda plastik zarrachalardir.",
+    "qq_term": "Mikroplastik",
+    "qq_definition": "Mikroplastik — bul jer betinde, suwlarda hám atmosferada turaqlı tabılatun, quramı plastik qaldıqlardan ibarat bolǵan hám ólchemi 5 millimetrden kishi bolǵan mitti plastik bólekleridir."
+  },
+  {
+    "en_term": "Ecological crisis",
+    "en_definition": "Ecological crisis (Environmental crisis) — a state where the environment of a species or a population changes in a way that destabilizes its continued survival, mainly due to human intervention or rapid bioclimatic shifts.",
+    "ru_term": "Экологический кризис",
+    "ru_definition": "Экологический кризис — это напряжённое состояние взаимоотношений между человечеством и природой, характеризующееся нарушением экологического равновесия и деградацией естественной среды обитания под влиянием антропогенных факторов.",
+    "uz_term": "Ekologik krizis",
+    "uz_definition": "Ekologik krizis — inson faoliyati yoki tabiiy jarayonlar ta'sirida tabiat va jamiyat o'rtasidagi muvozanatning keskin buzilishi hamda tirik organizmlarning yashash muhitiga xavf tug'ilishi bilan tavsiflanadigan vaqtinchalik barqaror bo'lmagan holatdir.",
+    "qq_term": "Ekologiyalıq krizis",
+    "qq_definition": "Ekologiyalıq krizis — bul inson xizmetiniń tásiri yamasa tábiyiy ózgerisler nátiyjesinde tábiyat penen jámiyet arasındaǵı teńsalmaqlılıqtıń (balanstıń) keskin buzılıwı hám tiri organizmlerdiń jasaw ortalıǵına qáwip tuwılıwı halatıdır."
+  },
+  {
+    "en_term": "Environmental disaster",
+    "en_definition": "Environmental disaster (Ecological catastrophe) — a catastrophic event regarding the natural environment due to human activity, heavy industry failure, or extreme natural phenomena, resulting in irreversible ecosystem destruction.",
+    "ru_term": "Экологическая катастрофа",
+    "ru_definition": "Экологическая катастрофа — это крупномасштабная экологическая авария или разрушительное природное явление, повлёкшее за собой необратимые изменения окружающей среды, массовую гибель живых организмов и экономический ущерб.",
+    "uz_term": "Ekologik halokat",
+    "uz_definition": "Ekologik halokat (Katastrofa) — inson faoliyati yoki yirik texnogen avariyalar oqibatida tabiiy ekotizimlarning qaytmas darajada buzilishi, tirik organizmlarning ommaviy qirilishi va atrof-muhitga tiklab bo'lmaydigan zarar yetishi holatidir.",
+    "qq_term": "Ekologiyalıq apat",
+    "qq_definition": "Ekologiyalıq apat — bul insonnıń tábiyatqa shamadan tıs qorqınshlı tásiri yamasa iri texnogen avariyalar nátiyjesinde jergilikli ekosistemalardıń tolıq hám artqa qaytpaytuǵın dárejede buzulıwı, tiri jandarlardıń sheksiz qırılıwı halatıdır."
+  },
+  {
+    "en_term": "Natural resources",
+    "en_definition": "Natural resources — materials or substances occurring in nature which can be exploited for economic gain and human consumption, including air, water, wood, oil, wind energy, iron, and coal.",
+    "ru_term": "Природные ресурсы",
+    "ru_definition": "Природные (естественные) ресурсы — это компоненты природы, природные объекты и виды энергии, которые используются или могут быть использованы в хозяйственной деятельности человека для удовлетворения его потребностей.",
+    "uz_term": "Tabiiy resurslar",
+    "uz_definition": "Tabiiy resurslar — insoniyat o'zining moddiy va ma'naviy ehtiyojlarini qondirish uchun tabiatdan tayyor holda oladigan barcha tirik hamda jonsiz komponentlar, energiya manbalari majmuidir.",
+    "qq_term": "Tabiǵiy resurslar",
+    "qq_definition": "Tabiǵiy resurslar — bul insaniyat tárepinen óziniń materiallık hám ruwxıy mútajliklerin qandırıw ushın tábiyattan alınatuǵın barlıq tiri hám jansız elementler, energiya derekleridir."
+  },
+  {
+    "en_term": "Non-renewable energy",
+    "en_definition": "Non-renewable energy — energy that comes from sources that will run out or will not be replenished in our lifetimes, or even in many lifetimes, because they take millions of years to form naturally (mostly fossil fuels like coal, oil, and natural gas).",
+    "ru_term": "Невозобновляемая энергия",
+    "ru_definition": "Невозобновляемая энергия — это энергия, получаемая из природных ресурсов, запасы которых на планете ограничены и не могут быть восполнены в обозримом будущем из-за огромной длительности процессов их формирования (нефть, газ, уголь).",
+    "uz_term": "Tiklanmaydigan energiya",
+    "uz_definition": "Tiklanmaydigan energiya — Yer qa'rida millionlab yillar davomida hosil bo'lgan, tabiatda zaxirasi cheklangan, iste'mol qilingan sari tugab boradigan va qayta tiklanmaydigan an'anaviy energiya manbalaridir (neft, gaz, ko'mir, uran).",
+    "qq_term": "Tiklenbeytuǵın energiya",
+    "qq_definition": "Tiklenbeytuǵın energiya — bul tábiyatta jer astında millionlap jıllar dawamında jıynalǵan, paydalanılǵan sayın tawsılıp baratuǵın hám insoniyat dáwirinde qaytadan tikleniwi múmkin bolmaǵan energiya derekleridir."
+  },
+  {
+    "en_term": "Solar energy",
+    "en_definition": "Solar energy — radiant light and heat from the Sun that is harnessed using a range of technologies such as solar power to generate electricity, solar thermal energy, and solar architecture.",
+    "ru_term": "Солнечная энергия",
+    "ru_definition": "Солнечная энергия — это возобновляемый источник энергии, получаемый за счёт излучения Солнца, которое преобразуется в электричество с помощью фотоэлектрических панелей или в тепло с помощью солнечных коллекторов.",
+    "uz_term": "Quyosh energiyasi",
+    "uz_definition": "Quyosh energiyasi — Quyosh nurlanishidan olinadigan, maxsus quyosh panellari yoki issiqlik kollektorlari yordamida elektr va issiqlik energiyasiga aylantiriladigan ekologik toza va tugamaydigan energiya manbaidir.",
+    "qq_term": "Kún energiyası",
+    "qq_definition": "Kún energiyası — bul Quyashtıń nurlanıwı nátiyjesinde payda bolatuǵın hám kún panelleri (fotoelementler) yamasa kún jıllılıq stansiyaları járdemi menen elektr yamasa ıssılıq energiyasına aylandırılatuǵın tiklenetuǵın energiya deregidir."
+  },
+  {
+    "en_term": "Wind energy",
+    "en_definition": "Wind energy (Wind power) — the use of wind turbines to generate electricity from the kinetic energy of airflows, serving as a sustainable and renewable clean energy source with a very small impact on the environment.",
+    "ru_term": "Ветровая энергия",
+    "ru_definition": "Ветровая энергия (Ветроэнергетика) — это отрасль энергетики, специализирующаяся на преобразовании кинетической энергии воздушных масс в атмосфере в электрическую, механическую или любую другую форму энергии с помощью ветрогенераторов.",
+    "uz_term": "Shamol energiyasi",
+    "uz_definition": "Shamol energiyasi — havo oqimlarining (shamolning) kinetik energiyasini shamol turbinalari yordamida mexanik energiyaga, so'ngra elektr energiyasiga aylantirishga asoslangan qayta tiklanuvchi energiya tarmog'idir.",
+    "qq_term": "Samal energiyası",
+    "qq_definition": "Samal energiyası — bul hawa massalarınıń reaktiv háreketindegi (samaldıń) kinetikalıq energiyasın mexanikaldıq energiyaǵa, al soń generatorlar járdemi menen elektr energiyasına aylandırıw procesidir."
+  },
+  {
+    "en_term": "Hydropower",
+    "en_definition": "Hydropower (Hydroelectric power) — a form of renewable energy that uses the natural flow of moving water, usually through a dam or other control structures, to generate electricity via water turbines.",
+    "ru_term": "Гидроэнергетика",
+    "ru_definition": "Гидроэнергетика — это область энергетики, связанная с использованием механической энергии водных потоков (рек, водопадов, приливов) для преобразования её в электрическую энергию на гидроэлектростанциях (ГЭС).",
+    "uz_term": "Gidroenergiya",
+    "uz_definition": "Gidroenergiya — oqar suvning (daryolar va sharsharalarning) kinetik kuchidan turbinalar va gidrogeneratorlar yordamida elektr energiyasi ishlab chiqarishga asoslangan an'anaviy qayta tiklanuvchi energiya sohasidir.",
+    "qq_term": "Gidroenergiya",
+    "qq_definition": "Gidroenergiya — bul aǵar suwdıń (daryalar, sarqıramalar) tartılıs kúshi tásirindegi háreketinen generatorlar hám suw turbinaları járdemi menen elektr energiyasın alıw tarawıdır."
+  },
+  {
+    "en_term": "Geothermal energy",
+    "en_definition": "Geothermal energy — thermal energy generated and stored in the Earth's crust, originating from the radioactive decay of materials and continual heat loss from the planet's formation, accessed through deep wells.",
+    "ru_term": "Геотермальная энергия",
+    "ru_definition": "Геотермальная энергия — это энергия, получаемая из природного тепла недр Земли. Источником тепла могут быть подземные термальные воды, подземный пар или сухие горячие скальные породы.",
+    "uz_term": "Geotermal energiya",
+    "uz_definition": "Geotermal energiya — Yer qa'rining ichki qatlamlarida to'plangan, tabiiy ravishda hosil bo'ladigan va yer yuzasiga qaynoq suv yoki bug' shaklida chiqadigan ichki issiqlik energiyasidan foydalanish sohasidir.",
+    "qq_term": "Geotermal energiya",
+    "qq_definition": "Geotermal energiya — bul Jer qabıǵınıń ishki qatlamlarında tábiyiy hám radioaktiv procesler nátiyjesinde payda bolatuǵın, Jer astı ıssı suwları hám puwları túrinde sırtqa shıǵatuǵın jıllılıq energiyasıdır."
+  },
+  {
+    "en_term": "Fossil fuels",
+    "en_definition": "Fossil fuels — hydrocarbon-containing materials of biological origin naturally formed in the Earth's crust over millions of years from dead organisms, which are burned as an energy source (such as coal, petroleum, and natural gas).",
+    "ru_term": "Ископаемое топливо",
+    "ru_definition": "Ископаемое топливо — это горючие вещества, сформировавшиеся в недрах Земли из остатков древних растений и организмов в течение миллионов лет, являющиеся невозобновляемыми источниками энергии (уголь, нефть, газ).",
+    "uz_term": "Qazilma yoqilg'i",
+    "uz_definition": "Qazilma yoqilg'i — millionlab yillar davomida Yer qa'rida qadimgi o'simlik va hayvonlar qoldiqlarining parchalanishidan hosil bo'lgan, energetikada yoqib ishlatiladigan uglevodorodli tabiiy resurslardir (ko'mir, neft, tabiiy gaz).",
+    "qq_term": "Qazılma janılǵı",
+    "qq_definition": "Qazılma janılǵı — bul Jer astında millionlap jıllar dawamında ólik ósimlikler hám haywanlar qaldıqlarınıń joqarı basım hám ıssılıq tásirinde parchalanıwınan payda bolǵan, tawsılatuǵın (tiklenbeytuǵın) energiya shiyki zatlarıdır."
+  },
+  {
+    "en_term": "Biofuel",
+    "en_definition": "Biofuel — a type of fuel whose energy is derived from biological carbon fixation, produced from biomass (plant or algal material or animal waste) rather than fossil fuels.",
+    "ru_term": "Биотопливо",
+    "ru_definition": "Биотопливо — это топливо из биологического сырья, получаемое, как правило, в результате переработки стеблей сахарного тростника, семян масличных культур, грубых древесных отходов или биомассы.",
+    "uz_term": "Bioyoqilg'i",
+    "uz_definition": "Bioyoqilg'i — biologik xomashyodan (o'simliklar, yog'och, qishloq xo'jaligi va sanoat chiqindilaridan) olinadigan suyuq, qattiq yoki gazsimon yoqilg'i turidir.",
+    "qq_term": "Biojanılǵı",
+    "qq_definition": "Biojanılǵı — bul biologiyalıq shiyki zattan (ósimlikler, terekler, awıl xojalıǵı hám sanaat qaldıqları yamasa teńiz otlarınan) alınatuǵın janılǵı túridir."
+  },
+  {
+    "en_term": "Water resources",
+    "en_definition": "Water resources — natural sources of water (mostly freshwater) that are potentially useful for humans, including uses in agricultural, industrial, household, recreational, and environmental activities.",
+    "ru_term": "Водные ресурсы",
+    "ru_definition": "Водные ресурсы — это все запасы поверхностных и подземных вод, находящихся в водных объектах Земли (реках, озёрах, морях, ледниках), которые используются или могут быть использованы человеком.",
+    "uz_term": "Suv resurslari",
+    "uz_definition": "Suv resurslari — insoniyat tomonidan maishiy hayotda, qishloq xo'jaligi va sanoatda foydalanish uchun yaroqli bo'lgan hamda tabiatda mavjud bo'lgan barcha chuchuk suv manbalaridir.",
+    "qq_term": "Suw resursları",
+    "qq_definition": "Suw resursları — bul insoniyat tárepinen turmısta, awıl xojalıǵında hám sanaatta paydalanıwǵa jaramlı bolǵan Jer betindegi hám Jer astındaǵı barlıq dushshı suw derekleridir."
+  },
+  {
+    "en_term": "Soil fertility",
+    "en_definition": "Soil fertility — the ability of soil to sustain agricultural plant growth, i.e. to provide plant habitat and result in sustained and consistent yields of high quality by providing essential nutrients and water.",
+    "ru_term": "Плодородие почвы",
+    "ru_definition": "Плодородие почвы — это способность почвы удовлетворять потребности растений в питательных веществах, влаге и воздухе, а также обеспечивать условия для их нормальной жизнедеятельности и получение урожая.",
+    "uz_term": "Tuproq unumdorligi",
+    "uz_definition": "Tuproq unumdorligi — tuproqning o'simliklarni o'sishi va rivojlanishi uchun zarur bo'lgan ozuqa moddalari, suv va havo bilan uzluksiz ta'minlay olish va yuqori hosil berish xususiyatidir.",
+    "qq_term": "Topıraq unımlılıǵı",
+    "qq_definition": "Topıraq unımlılıǵı — bul topıraqtıń ósimliklerdi ósiwı hám rawajlanıwı ushın zárúr bolǵan suw, azıqlıq elementler (azot, fosfor, kaliy) hám hawa (kislorod) menen úzliksiz táminley alıw qásiyetidir."
+  },
+  {
+    "en_term": "Nuclear energy",
+    "en_definition": "Nuclear energy — the energy released during nuclear fission or fusion, especially when used to generate electricity in nuclear power plants by splitting the nuclei of certain isotopes (like Uranium-235).",
+    "ru_term": "Ядерная энергия",
+    "ru_definition": "Ядерная (Атомная) энергия — это энергия, выделяющаяся при превращениях ядер атомов (в результате ядерных реакций распада или синтеза), которая используется на АЭС для выработки электричества.",
+    "uz_term": "Yadro energiyasi",
+    "uz_definition": "Yadro (Atom) energiyasi — og'ir atom yadrolarining (asosan uran) bo'linishi yoki yengil yadrolarning sintezi reaksiyasi natijasida ajralib chiqadigan, atom elektr stansiyalarida ishlatiladigan ulkan energiya turidir.",
+    "qq_term": "Yadrolıq energiya",
+    "qq_definition": "Yadrolıq energiya (Atom energiyası) — bul awır atom yadrolarınıń (tiykarınan Uran-235) jasandı bólinıwı (parchalanıwı) reaksiyası nátiyjesinde ajralıp shıǵatuǵın júdá úlken muǵdardagı ishki jıllılıq energiyasıdır."
+  },
+  {
+    "en_term": "Energy conservation",
+    "en_definition": "Energy conservation — the effort made to reduce the consumption of energy by using less of an energy service or by improving the efficiency of energy-consuming devices and buildings.",
+    "ru_term": "Энергосбережение",
+    "ru_definition": "Энергосбережение — это реализация правовых, организационных, научных, производственных и технических мер, направленных на эффективное использование энергетических ресурсов и уменьшение их потребления.",
+    "uz_term": "Energiya tejash",
+    "uz_definition": "Energiya tejash (Energiya samaradorligi) — zamonaviy texnologiyalarni joriy etish va kundalik odatlarni o'zgartirish orqali yoqilg'i-energetika resurslaridan oqilona foydalanish va ularning sarfini kamaytirishga qaratilgan chora-tadbirlardir.",
+    "qq_term": "Energiya únemlew",
+    "qq_definition": "Energiya únemlew — bul jańa texnologiyalardı qollanıw hám adamlardıń múnasibetin ózgertiw arqalı energiya resurslarınan unımlı paydalanıw, turaqlı túrde quvvat sarpın kemeytiwge baǵdarlanǵan ilajlar dizbegidir."
+  },
+  {
+    "en_term": "Alternative energy",
+    "en_definition": "Alternative energy — any energy source that is an alternative to traditional fossil fuels (such as coal, oil, and natural gas), aimed at reducing carbon emissions and addressing environmental concerns.",
+    "ru_term": "Альтернативная энергетика",
+    "ru_definition": "Альтернативная энергетика — это совокупность перспективных способов получения, передачи и использования энергии из источников, отличных от традиционных (уголь, нефть, природный газ), с целью снижения вреда экологии.",
+    "uz_term": "Muqobil energiya",
+    "uz_definition": "Muqobil energiya — an'anaviy qazilma yoqilg'ilarga (neft, gaz, ko'mir) o'rinbosar sifatida ishlatiladigan, atrof-muhitga zarar yetkazmaydigan va karbonat angidrid chiqarmaydigan barcha zamonaviy energiya manbalaridir.",
+    "qq_term": "Alternativ energiya",
+    "qq_definition": "Alternativ energiya — bul dástúriy bolǵan qazılma janılǵılarǵa (kómir, neft, gaz) muqobil (orınbasar) sıpatında qollanılatuǵın, qorshaǵan ortalıqtı pataslamaytuǵın hám parnik effektin keltirip shıǵarmaytuǵın bar kútilmegen energiya derekleridir."
+  },
+  {
+    "en_term": "Mining industry",
+    "en_definition": "Mining industry — an economic sector that involves the extraction of valuable minerals or other geological materials from the Earth, usually from an orebody, lode, vein, seam, reef, or placer deposit.",
+    "ru_term": "Горнодобывающая промышленность",
+    "ru_definition": "Горнодобывающая промышленность — это комплекс отраслей производства, занимающихся разведкой, добычей и первичным обогащением полезных ископаемых (металлов, угля, горючих сланцев, соли, строительных материалов) из недр Земли.",
+    "uz_term": "Tog'-kon sanoati",
+    "uz_definition": "Tog'-kon sanoati — Yer qa'ridan foydali qazilmalarni (erkin holatdagi yoki ma'danlar tarkibidagi metallar, ko'mir, torf, tuzlar va boshqalar) qidirish, qazib olish va birlamchi qayta ishlash bilan shug'ullanadigan og'ir sanoat tarmog'idir.",
+    "qq_term": "Taw-ken sanaatı",
+    "qq_definition": "Taw-ken sanaatı — bul Jer qabıǵınan paydalı qazılmalardı (metallar, kómir, neft, gaz, duzlar, qurılıs materialları hám t.b.) izlep tabıw, qazıp alıw hám birlemshi qayta islew menen bánt bolǵan awır sanaat quramı bólegidir."
+  },
+  {
+    "en_term": "Nature conservation",
+    "en_definition": "Nature conservation (Environmental protection) — the moral philosophy and conservation movement focused on protecting species from extinction, maintaining and restoring habitats, enhancing ecosystem services, and protecting biological diversity.",
+    "ru_term": "Охрана природы",
+    "ru_definition": "Охрана природы (Природоохрана) — это система международных, государственных и общественных мероприятий, направленных на рациональное использование, восстановление и сохранение естественных ресурсов и животного мира Земли.",
+    "uz_term": "Tabiatni muhofaza qilish",
+    "uz_definition": "Tabiatni muhofaza qilish (Atrof-muhitni muhofaza qilish) — tabiiy boyliklarni saqlash, ulardan oqilona foydalanish, atrof-muhitning ifloslanishini oldini olish hamda tabiat va inson o'rtasidagi uyg'unlikni ta'minlashga qaratilgan chora-tadbirlar tizimidir.",
+    "qq_term": "Tabiattı qorǵaw",
+    "qq_definition": "Tabiattı qorǵaw — bul tábiyiy resurslardı saqlap qalıw, olardan unımlı paydalanıw, qorshaǵan ortalıqtıń pataslanıwın aldın alıw hám biosferanıń teńsalmaqlılıǵın qorǵawǵa baǵdarlanǵan mámleketlik, jámiyetlik hám xalqara ilajlar dizbegidir."
+  },
+  {
+    "en_term": "Ecotourism",
+    "en_definition": "Ecotourism — a form of tourism involving responsible travel to natural areas, conserving the environment, and improving the well-being of the local people, with a primary focus on experiencing and learning about nature.",
+    "ru_term": "Экологический туризм",
+    "ru_definition": "Экологический туризм (Экотуризм) — это форма устойчивого туризма, сфокусированная на посещении относительно нетронутых антропогенным воздействием природных территорий с целью изучения и созерцания природы при минимальном ущербе для неё.",
+    "uz_term": "Ekoturizm",
+    "uz_definition": "Ekoturizm (Ekologik turizm) — tabiatga minimal zarar yetkazgan holda, uning buzilmagan hududlariga sayohat qilish, atrof-muhitni asrashga hissa qo'shish va mahalliy aholining madaniyati hamda turmush tarzini hurmat qilishga asoslangan turizm turidir.",
+    "qq_term": "Ekoturizm",
+    "qq_definition": "Ekoturizm (Ekologiyalıq turizm) — bul tábiyiy landshaftlar jaqsı saqlanǵan, tiri tábiyat ortalıǵına ziyan keltirmeytuǵın, jergilikli xalıqtıń social-ekonomikalıq jaǵdayın jaqsılawǵa járdem beretuǵın hám sayaxatshılarda ekologiyalıq mádeniyattı qáliplestiretuǵın turizm baǵdarıdır."
+  },
+  {
+    "en_term": "National park",
+    "en_definition": "A scenic or historically important area of countryside protected by the federal government for the preservation of wildlife and the enjoyment of the general public.",
+    "ru_term": "Национальный парк",
+    "ru_definition": "Национальный парк — особо охраняемая природная территория, где в целях охраны окружающей среды ограничена деятельность человека. В отличие от заповедников, где доступ людей закрыт, в национальных парках разрешен организованный туризм и отдых.",
+    "uz_term": "Milliy bog'",
+    "uz_definition": "Milliy bog' — tabiatni muhofaza qilish, ilmiy va rekreatsiya (dam olish) maqsadlarida tashkil etilgan, inson faoliyati kam o'zgartirgan yoki umuman o'zgartirmagan yirik tabiiy hudud. Bu yerda tabiiy landshaftlar, o'simliklar va hayvonot dunyosi davlat tomonidan qattiq muhofaza qilinadi, ammo sayyohlar uchun belgilangan qoidalar asosida kirishga ruxsat beriladi.",
+    "qq_term": "Milliy baq",
+    "qq_definition": "Milliy baq — tábiyattı qorǵaw, ilmiy hám rekreaciya (dem alıw) maqsetlerinde shólkemlestirilgen, insan xızmeti kem ózgertken yamasa ulıwma ózgertpegen úlken tábiyiy aymaq. Bul jerde tábiyiy landshaftlar, ósimlikler hám jánuarlar álemi mámleket tárepinen qatań qorǵaladı, biraq sayaxatshılar ushın belgili bir qaǵıydalar tikarında kiriwge ruxsat beriledi."
+  },
+  {
+    "en_term": "Waste disposal",
+    "en_definition": "Waste disposal (Utilization) — the process of recycling, reusing, or safely destroying waste products so they do not cause harm to the environment. Often refers to recovering resources (like energy) from waste.",
+    "ru_term": "Утилизация",
+    "ru_definition": "Утилизация — использование отходов с пользой (например, сжигание мусора для получения тепла/энергии) или их полное безопасное уничтожение, если они непригодны для повторного использования (например, утилизация опасных химикатов или медицинских отходов).",
+    "uz_term": "Utilizatsiya",
+    "uz_definition": "Utilizatsiya qilish — foydalanishga yaroqsiz bo'lib qolgan, eski yoki zararli moddalarni, chiqindilarni zararsizlantirish yoki yo'q qilish jarayoni. Shuningdek, bu atama chiqindilardan yangi bir foydali maqsad (energiya yoki mahsulot) olishni ham anglatadi. Masalan, tibbiy chiqindilarni maxsus pechlarda yo'q qilish yoki chiqindidan biogaz olish.",
+    "qq_term": "Utilizaciya",
+    "qq_definition": "Utilizaciya qılıw — paydalanıwǵa jaramsız bolıp qalǵan, eski yamasa zıyanlı zatlardı, qaldıqlardı zıyansızlandırıw yamasa joq etiw procesi. Sonday-aq, bul termin qaldıqlardan jańa bir paydalı maunet (energiya yamasa xizmet) alıwdı da ańlatadı. Mısalı, jıynalǵan qaldıqlardan gaz (biogaz) alıw yamasa medicinalıq úskenelerdi arnawlı pechlerde órtep joq etiw."
+  },
+  {
+    "en_term": "Ecological footprint",
+    "en_definition": "Ecological footprint — a method used to measure human demand on Earth's ecosystems. It compares human consumption of natural resources with Earth's ecological capacity to regenerate them.",
+    "ru_term": "Экологический след",
+    "ru_definition": "Экологический след — мера воздействия человека на среду обитания, которая показывает, сколько площади биологически продуктивной земли и воды требуется для производства ресурсов, которые мы потребляем, и для поглощения наших отходов.",
+    "uz_term": "Ekologik iz",
+    "uz_definition": "Ekologik iz — bir insonning, jamiyatning yoki biror korxonaning hayot kechirishi va faoliyati uchun qanchalik tabiiy resurs (suv, yer, daraxt va h.k.) kerakligini hamda ular chiqargan chiqindilarni yutish uchun qanchalik tabiiy maydon kerak bo'lishini o'lchaydigan ko'rsatkich. Bu ko'rsatkich 'global gektar' (gha) bilan o'lchanadi va insoniyatning tabiatga bo'lgan bosimini ko'rsatadi.",
+    "qq_term": "Ekologiyalıq iz",
+    "qq_definition": "Ekologiyalıq iz — bir insannıń, jámiyetttiń yamasa bir kárxananıń ómir súriwi hám iskerligi ushın qanshelli tábiyiy resurs (suw, jer, terek hám t.b.) kerek ekenligin hám olar shıǵarǵan qaldıqlardı jutıw ushın qanshelli tábiyiy maydan kerek bolıwın ólsheyjaq kórsetkish. Bul kórsetkish 'global gektar' (gha) menen ólshenedi hám insan balasınıń tábiyatqa salıp atırǵan salmaǵın kórsetedi."
+  },
+  {
+    "en_term": "Biodegradation",
+    "en_definition": "Biodegradation — the breakdown of organic matter by microorganisms, such as bacteria and fungi. Biodegradable materials can be decomposed into natural elements like water, carbon dioxide, and biomass without harming the environment.",
+    "ru_term": "Биоразложение",
+    "ru_definition": "Биоразложение — процесс распада органических веществ в результате деятельности живых организмов (микроорганизмов, бактерий, грибов). В процессе биоразложения сложные вещества превращаются в простые химические элементы (воду, углекислый газ), которые легко усваиваются природой.",
+    "uz_term": "Biologik parchalanish",
+    "uz_definition": "Biologik parchalanish — organik moddalarning mikroorganizmlar (bakteriyalar, zamburug'lar) ta'sirida tabiiy ravishda mayda, zararsiz bo'laklarga (suv, gaz, mineral tuzlarga) bo'linib, tabiatga qayta qo'shilish jarayoni. Masalan, daraxt barglari yoki ovqat chiqindilari tuproqda tez biologik parchalanadi, lekin plastik idishlar yuzlab yillar davomida parchalanmay saqlanib qoladi.",
+    "qq_term": "Biologiyalıq ıdıraw",
+    "qq_definition": "Biologiyalıq ıdıraw — organikalıq zatlardıń mikroorganizmler (bakteriyalar, gúbeler) tásirinde tábiyiy túrde mayda, zıyansız bóleklerge (suw, gaz, mineral duzlarǵa) bólinip, tábiyatqa qayta qosılıp ketiwi. Mısalı, terek japıraqları yamasa tamaq qaldıqları topıraqta tez biologiyalıq ıdırawǵa ushraydı, biraq plastik ıdıslar júzlegen jıllar dawamında ıdıramay qala beredi."
+  },
+  {
+    "en_term": "Compost",
+    "en_definition": "Compost — organic matter that has been decomposed in a process called composting. This process recycles various organic materials otherwise regarded as waste products and produces a soil conditioner rich in nutrients.",
+    "ru_term": "Компост",
+    "ru_definition": "Компост — органическое удобрение, получаемое в результате разложения различных органических веществ (остатков пищи, листьев, травы) под влиянием микроорганизмов. Используется для улучшения структуры и плодородия почвы.",
+    "uz_term": "Kompost",
+    "uz_definition": "Kompost — organik chiqindilarning (ovqat qoldiqlari, daraxt barglari, yulib olingan o'tlar va h.k.) mikroorganizmlar ta'sirida chirishi va biologik parchalanishi natijasida hosil bo'ladigan qimmatli tabiiy o'g'it. U tuproq unumdorligini oshirish uchun bog'dorchilik va qishloq xo'jaligida keng qo'llaniladi.",
+    "qq_term": "Kompost",
+    "qq_definition": "Kompost — organikalıq qaldıqlardıń (tamaq qaldıqları, terek japıraqları, unıńǵan shópler, qı hám t.b.) mikroorganizmler tásirinde shiriwi hám biologiyalıq ıdırawı nátiyjesinde payda bolatuǵın baǵalı hám tásirli tegin tógin. Ol topıraqtıń ónimdarlıǵın arttırıw ushın baǵshılıq hám awıl xojalıǵında keńnen qollanıladı."
+  },
+  {
+    "en_term": "Eco-certification",
+    "en_definition": "Ecological certificate (Eco-certification) — a formal document issued by an authorized body confirming that a product, service, or process meets strict environmental standards and safety regulations during its lifecycle.",
+    "ru_term": "Экологический сертификат",
+    "ru_definition": "Экологический сертификат — официальный документ, удостоверяющий соответствие продукции, услуг или производственных процессов установленным экологическим требованиям и стандартам безопасности для окружающей среды.",
+    "uz_term": "Ekologik sertifikat",
+    "uz_definition": "Ekologik sertifikat — biror mahsulot, xizmat yoki korxona faoliyatining ekologik xavfsizlik normativlariga va tabiatni muhofaza qilish talablariga to'liq mos kelishini tasdiqlovchi rasmiy hujjat. Bu sertifikat mahsulotning ishlab chiqarilishidan tortib chiqindiga aylanishigacha bo'lgan jarayonlar tabiatga zarar keltirmaganini bildiradi.",
+    "qq_term": "Ekologiyalıq sertifikat",
+    "qq_definition": "Ekologiyalıq sertifikat — qanday da bir ónimniń, xızmettiń yamasa kárxananıń iskerliginiń ekologiyalıq qáwipsizlik normativlerine hám tábiyattı qorǵaw talaplarına tolıq sáykes keliwin tastıyıqlaytuǵın rásmiy hújjet. Bul sertifikat ónimniń islep shıǵarılıwınan baslap qaldıqqa aylanıwına deyingi proceslerdiń tábiyatqa zıyan keltirmegenligin bildiredi."
+  },
+  {
+    "en_term": "Environmental monitoring",
+    "en_definition": "Environmental monitoring — processes and activities that need to take place to characterize and monitor the quality of the environment. It is used to prepare environmental impact assessments and to detect changes or trends in the environment.",
+    "ru_term": "Экологический мониторинг",
+    "ru_definition": "Экологический мониторинг — система регулярных наблюдений, оценки и прогноза состояния окружающей среды под влиянием природных и антропогенных (человеческих) факторов.",
+    "uz_term": "Ekologik monitoring",
+    "uz_definition": "Ekologik monitoring — atrof-muhitning (havo, suv, tuproq, o'simliklar va hayvonot dunyosining) holatini muntazam kuzatib borish, unga inson faoliyatining ta'sirini baholash va kelajakda yuz berishi mumkin bo'lgan ekologik o'zgarishlar hamda xavflarni oldindan bashorat qilish (prognozlash) tizimi.",
+    "qq_term": "Ekologiyalıq monitoring",
+    "qq_definition": "Ekologiyalıq monitoring — atrof-ortalıqtıń (hawa, suw, topıraq, ósimlikler hám jánuarlar áleminiń) jaǵdayın turaqlı baqlap barıw, oǵan insan iskerliginiń tásirin bahalaw hám keleshekte júz beriwi múmkin bolǵan ekologiyalıq ózgerisler menen qáwiplerdi aldın ala bilish (prognozlaw) sisteması."
+  },
+  {
+    "en_term": "Green politics",
+    "en_definition": "Green politics (Green policy) — a political ideology and set of governmental guidelines that aims to foster an ecologically sustainable society, often rooted in environmentalism, nonviolence, and social justice.",
+    "ru_term": "Зелёная политика",
+    "ru_definition": "Зелёная политика — политическая идеология и государственная стратегия, направленная на защиту окружающей среды, устойчивое развитие, снижение вредных выбросов и переход на возобновляемые источники энергии (развитие 'зелёной экономики').",
+    "uz_term": "Yashil siyosat",
+    "uz_definition": "Yashil siyosat — davlatlar yoki siyosiy partiyalar tomonidan atrof-muhitni muhofaza qilish, tabiiy resurslardan oqilona foydalanish, iqlim o'zgarishiga qarshi kurashish va ekologik barqarorlikni ta'minlash maqsadida ishlab chiqilgan dastur va strategiyalar. U qayta tiklanuvchi energiya manbalaridan foydalanish va 'yashil iqtisodiyot'ga o'tishni qo'llab-quvvatlaydi.",
+    "qq_term": "Jasıl siyasat",
+    "qq_definition": "Jasıl siyasat — mámleketler yamasa siyasiy partiyalar tárepinen qorshaǵan ortalıqtı qorǵaw, tábiyiy resurslardan aqıllı paydalanıw, klimat ózgerisine qarsı gúresiw hám ekologiyalıq turaqlılıqtı táminlew maqsetinde islep shıǵılǵan baǵdarlama hám strategiyalar. Ol qayta tiklenetuǵın energiya dereklerin qollanıw hám 'jasıl ekonomika'ǵa ótiwdi qollap-quwatlaydı."
+  },
+  {
+    "en_term": "Ecological culture",
+    "en_definition": "Ecological culture (Environmental awareness culture) — a state of human consciousness and social development characterized by deeply ingrained respect for nature, responsibility for environmental actions, and the practice of sustainable living habits.",
+    "ru_term": "Экологическая культура",
+    "ru_definition": "Экологическая культура — часть общечеловеческой культуры, включающая систему экологических знаний, ценностей, бережное отношение к природе и навыки экологически безопасного поведения в повседневной жизни.",
+    "uz_term": "Ekologik madaniyat",
+    "uz_definition": "Ekologik madaniyat — insonning tabiat bilan to'g'ri va uyg'un munosabatda bo'lish qobiliyati; tabiatga qadrli ne'mat sifatida qarash, ekologik bilimlarni o'zlashtirish va kundalik hayotda (suvni tejash, chiqindini tashlamaslik va h.k.) ekologik mas'uliyatni his qilib yashash darajasi.",
+    "qq_term": "Ekologiyalıq mádeniyat",
+    "qq_definition": "Ekologiyalıq mádeniyat — insannıń tábiyat penen tuwrı hám sáykes múnásibette bolıw qábileti; tábiyatqa qádirli zat sıpatında qaraw, ekologiyalıq bilimlardı ózlestiriw hám kúndelikli ómirde (suwdı tejew, qaldıqtı taslamaw hám t.b.) ekologiyalıq juwapkershilikti sezinip jasaw dárejesi."
+  },
+  {
+    "en_term": "Wilderness",
+    "en_definition": "Wilderness (Wildlife) — natural environments on Earth that have not been significantly modified by human activity. It includes untamed landscapes where non-domesticated species of plants and animals live without human intervention.",
+    "ru_term": "Дикая природа",
+    "ru_definition": "Дикая природа — экологическая система, земля и акватория, практически не изменённая человеком, где природные процессы протекают без искусственного вмешательства, а флора и фауна развиваются естественным путём.",
+    "uz_term": "Yovvoyi tabiat",
+    "uz_definition": "Yovvoyi tabiat — inson faoliyati va ta'siri yetib bormagan yoki umuman o'zgartirilmagan, o'zining tabiiy qonuniyatlari asosida rivojlanayotgan tabiiy muhit. Bu yerda er maydoni, hayvonot va nabotot olami o'zining dastlabki (tabiiy) holatida saqlanadi.",
+    "qq_term": "Jabayı tábiyat",
+    "qq_definition": "Jabayı tábiyat — insan iskerligi hám tásiri jetip barmayan yamasa ulıwma ózgertilmegen, óziniń tábiyiy nızamları tikarında rawajlanıp atırǵan tábiyiy ortalıq. Bul jerde jer maydanı, qorǵalatuǵın haywanlar hám ósimlikler álemi óziniń dáslepki (tábiyiy) halatında saqlanadı."
+  },
+  {
+    "en_term": "Environmental law",
+    "en_definition": "Environmental law — a collective term encompassing aspects of the law that provide protection to the environment. It consists of treaties, statutes, regulations, and common law focused on protecting natural resources and regulating human impact on ecosystems.",
+    "ru_term": "Экологическое право",
+    "ru_definition": "Экологическое право — комплексная отрасль права, регулирующая общественные отношения в сфере взаимодействия общества и природы, направленная на защиту окружающей среды, рациональное использование ресурсов и обеспечение права человека на благоприятную экологическую среду.",
+    "uz_term": "Ekologik huquq",
+    "uz_definition": "Ekologik huquq — inson va tabiat o'rtasidagi munosabatlarni tartibga soluvchi, atrof-muhitni muhofaza qilish, tabiiy resurslardan oqilona foydalanish hamda insonning xavfsiz tabiiy muhitda yashash huquqini ta'minlashga qaratilgan qonunlar va huquqiy normalar yig'indisi.",
+    "qq_term": "Ekologiyalıq huquq",
+    "qq_definition": "Ekologiyalıq huquq — insan hám tábiyat arasındaǵı múnásibetlerdi tartipke salatuǵın, qorshaǵan ortalıqtı qorǵaw, tábiyiy resurslardan aqıllı paydalanıw hám insannıń qáwipsiz tábiyiy ortalıqta jasaw huquqın táminlewge qaratılǵan nızamlar hám huquqıy normalar jıyındısı."
+  },
+  {
+    "en_term": "Environmental rehabilitation",
+    "en_definition": "Environmental rehabilitation (Restoration) — the process of returning a degraded, damaged, or destroyed ecosystem or land area to a functional and stable condition that closely resembles its original natural state.",
+    "ru_term": "Экологическая реабилитация",
+    "ru_definition": "Реабилитация / Восстановление — комплекс мер, направленных на восстановление нарушенных или деградировавших экосистем, почв, водных объектов и мест обитания живых организмов до их первоначального, естественного состояния.",
+    "uz_term": "Ekologik reabilitatsiya",
+    "uz_definition": "Reabilitatsiya (Tiklash) — inson faoliyati (masalan, konchilik, qurilish, ifloslanish) yoki tabiiy ofatlar natijasida buzilgan, shikastlangan ekologik tizimlarni, tuproqni, suv manbalarini hamda o'simlik/hayvonot yashash muhitini dastlabki (tabiiy) holatiga yaqinlashtirib qayta tiklash jarayoni.",
+    "qq_term": "Ekologiyalıq reabilitaciya",
+    "qq_definition": "Reabilitaciya (Tiklew) — insan iskerligi (mısalı, taw-ken jumısları, qurılıslar, pataslanıw) yamasa tábiyiy apatlar nátiyjesinde buzılǵan, zaqımlanǵan ekologiyalıq sistemalardı, topıraqtı, suw dereklerin hám ósimlikler/jánuarlar jasaytuǵın ortalıqtı dáslepki (tábiyiy) halatına jaqınlastırıp qayta tiklew procesi."
+  },
+  {
+    "en_term": "Ecological sustainability",
+    "en_definition": "Ecological sustainability — the capacity of ecosystems to maintain their essential functions, biodiversity, and productivity over time, resisting and recovering from disturbances, while ensuring that human consumption does not deplete natural capital for future generations.",
+    "ru_term": "Экологическая устойчивость",
+    "ru_definition": "Экологическая устойчивость — способность экосистемы сохранять свою структуру, функции и внутреннее равновесие, несмотря на внешние воздействия (человеческую деятельность или изменения климата), а также способность восстанавливаться после нарушений.",
+    "uz_term": "Ekologik barqarorlik",
+    "uz_definition": "Ekologik barqarorlik — tabiiy ekotizimlarning tashqi ta'sirlarga (inson bosimiga yoki iqlim o'zgarishiga) qarshi tura olish, o'zining asosiy xususiyatlari hamda muvozanatini saqlab qolish va shikastlangandan keyin o'z-o'zini qayta tiklash qobiliyati. Bu kelajak avlodlar ehtiyojini xavf ostiga qo'ymagan holda yashashni anglatadi.",
+    "qq_term": "Ekologiyalıq turaqlılıq",
+    "qq_definition": "Ekologiyalıq turaqlılıq — tábiyiy ekosistemalardıń sırtqı tásirlerge (insan basımına yamasa klimat ózgerisine) qarsı turıw, óziniń tikarǵı qásiyetlerin hám teńsalmaqlılıǵın saqlap qalıw hám zaqımlanǵannan keyin óz-ózin qayta tiklew qábileti. Bul keleshek áwladlardıń resurslarǵa bolǵan mútajligini sheklep qoymastan jasawdı ańlatadı."
+  },
+  {
+    "en_term": "Sanitation",
+    "en_definition": "Sanitation — public health conditions related to clean drinking water and treatment and disposal of human excreta and sewage. It involves implementing hygienic measures to prevent disease and maintain a healthy environment.",
+    "ru_term": "Санитария",
+    "ru_definition": "Санитария — практическое применение гигиенических нормативов и правил, а также комплекс мер, направленных на охрану здоровья населения, предупреждение болезней и создание здоровых условий жизни (включая водоснабжение, канализацию и утилизацию отходов).",
+    "uz_term": "Sanitariya",
+    "uz_definition": "Sanitariya — insonlar salomatligini muhofaza qilish, yuqumli kasalliklarning oldini olish va xavfsiz yashash muhitini ta'minlashga qaratilgan gigiyenik tadbirlar, qoida va muhandislik-texnik tizimlar yig'indisi. Bu atama ko'pincha toza suv ta'minoti, oqova suvlarni tozalash (kanalizatsiya) va maishiy chiqindilarni boshqarish bilan bog'liq.",
+    "qq_term": "Sanitariya",
+    "qq_definition": "Sanitariya — insanlardıń sawlıǵın qorǵaw, juqpalı keselliklerdiń aldın alıw hám turaqlı jasaw ortalıǵın táminlew ushın baǵdarlanǵan gigiyenalıq ilajlar, nızam-qaǵıydalar hám injenerlik-texnikalıq sistemalar jıyındısı. Bul termin kóbinese taza suw menen táminlew, qaldıq suwlardı (kanalizaciyanı) tazamalaw hám puqtaralardıń turmıs sharayatın jaqsılaw menen turaqlı baylanıslı."
+  },
+  {
+    "en_term": "Water desalination",
+    "en_definition": "Water desalination — the process of removing salt and other minerals from saline water (such as seawater) to make it suitable for human consumption or irrigation.",
+    "ru_term": "Опреснение воды",
+    "ru_definition": "Опреснение воды — удаление растворённых солей из морской или солоноватой воды для получения воды, пригодной для питья, бытовых нужд или орошения в сельском хозяйстве (используются методы дистилляции, обратного осмоса и др.).",
+    "uz_term": "Suvni chuchuklashtirish",
+    "uz_definition": "Suvni chuchuklashtirish — sho'r yoki dengiz suvi tarkibidagi ortiqcha tuzlar va minerallarni maxsus texnologiyalar (masalan, teskari osmos yoki bug'latish) yordamida ajratib, uni ichishga hamda qishloq xo'jaligida qo'llashga yaroqli chuchuk suv holatiga keltirish jarayoni.",
+    "qq_term": "Suwdı dushshılandırıw",
+    "qq_definition": "Suwdı dushshılandırıw — shór yamasa teńiz suwınıń quramındaǵı artıqsha duzlardı hám minerallardı arnawlı texnologiyalar (mısalı, keri osmos yamasa puwlandırıw) járdeminde ajıratıp, onı ishiwge hám awıl xojalıǵında qollanıwǵa jaramlı dushshı suw halatına keltiriw procesi."
+  },
+  {
+    "en_term": "Environmental impact assessment",
+    "en_definition": "Environmental impact assessment (Ecological expertise) — the formal process of evaluating the potential environmental consequences of a proposed project, plan, or policy, ensuring it complies with environmental regulations before approval.",
+    "ru_term": "Экологическая экспертиза",
+    "ru_definition": "Экологическая экспертиза — установление соответствия намечаемой хозяйственной и иной деятельности экологическим требованиям в целях предупреждения возможных негативных воздействий этой деятельности на окружающую среду.",
+    "uz_term": "Ekologik ekspertiza",
+    "uz_definition": "Ekologik ekspertiza — rejalashtirilayotgan har qanday xo'jalik yoki boshqa faoliyatning (masalan, yangi zavod qurish, yo'l solish) ekologik talablarga muvofiqligini tekshirish jarayoni. Uning asosiy maqsadi — ushbu loyihaning tabiatga va aholi salomatligiga salbiy ta'sir ko'rsatish xavfini oldindan aniqlash va bartaraf etishdir.",
+    "qq_term": "Ekologiyalıq ekspertiza",
+    "qq_definition": "Ekologiyalıq ekspertiza — qanday da bir rejelestirilip atırǵan xojalıq iskerliginiń (mısalı, jańa zavod qurıw, jol salıw yamasa nızam joybarı) ekologiyalıq talaplarǵa sáykesligini tekseriw procesi. Onıń tiykargı maqseti — bul proyekt keleshekte tábiyatqa hám xalıq sawlıǵına zıyan keltirmeyme degen sawalǵa juwap tabıw hám unın unımsız tásirlerin aldın ala bilish."
+  },
+  {
+    "en_term": "Urban greening",
+    "en_definition": "Urban greening (Landscaping) — the process of planting trees, shrubs, and other vegetation in urban or rural areas to create green spaces. It helps improve air quality, reduce noise, and enhance the microclimate and visual appeal of an area.",
+    "ru_term": "Озеленение",
+    "ru_definition": "Озеленение — комплекс работ по созданию и использованию зелёных насаждений (посадке деревьев, кустарников, обустройству газонов и цветников) для улучшения экологии, очищения воздуха и эстетического благоустройства территорий.",
+    "uz_term": "Ko'kalamzorlashtirish",
+    "uz_definition": "Ko'kalamzorlashtirish — shaharlar, qishloqlar, yo'l bo'ylari yoki korxonalar atrofiga daraxtlar, butalar va gullar ekib, yashil maydonlar yaratish jarayoni. Bu ish havoni kislorod bilan boyitish, chang va shovqinni kamaytirish hamda hudud mikroklimatini yaxshilash uchun amalga oshiriladi.",
+    "qq_term": "Kóklemzarlastırıw",
+    "qq_definition": "Kóklemzarlastırıw — qalalar, awıllar, jollar boyı yamasa kárxanalar átrapına terekler, bollar hám gúller egip, jasıl maydanlar jaratıw procesi. Bul jumıs hawanı ottek (kislorod) menen bayıtıw, shań hám shovqındı azaytıw, sonday-aq aymaqtıń mikroklimatın jaqsılaw ushın ámelge asırıladı."
+  },
+  {
+    "en_term": "Natural resource management",
+    "en_definition": "Natural resource management — the management of natural resources such as land, water, soil, plants, and animals, with a particular focus on how management affects the quality of life for both present and future generations.",
+    "ru_term": "Природопользование",
+    "ru_definition": "Природопользование — совокупность всех форм эксплуатации природно-ресурсного потенциала и мер по его сохранению и воспроизводству со стороны человеческого общества. Включает в себя рациональное и нерациональное природопользование.",
+    "uz_term": "Tabiatdan foydalanish",
+    "uz_definition": "Tabiatdan foydalanish — inson jamiyatining tabiiy resurslardan (yer, suv, qazilma boyliklar, o'rmonlar) o'z ehtiyojlari uchun foydalanish, ularni muhofaza qilish va qayta tiklash bo'yicha amalga oshiradigan barcha faoliyati va boshqaruv tizimi. U oqilona (ratsional) va oqilona bo'lmagan (neratsional) turlarga bo'linadi.",
+    "qq_term": "Tábiyattı basqarıw",
+    "qq_definition": "Tábiyattı basqarıw — insan jámiyetiniń tábiyiy resurslardan (jer, suw, qazılma baylıqlar, terekler) óz mútajlikleri ushın paydalanıw, olardı qorǵaw hám qayta tiklew boyınsha ámelge asıratuǵın barlıq iskerligi hám basqarıw sisteması. Ol eki túrli bolıwı múmkin: aqıllı (racional) — tábiyatqa zıyan keltirmey paydalanıw; hám aqılsız (neracional) — resurslardıń tawsılıwına hám ekologiyalıq kriziske alıp keliwshi paydalanıw."
+  },
+  {
+    "en_term": "Zero waste",
+    "en_definition": "Zero waste — a set of principles focused on waste prevention that encourages the redesign of resource life cycles so that all products are reused. The goal is for no trash to be sent to landfills, incinerators, or the ocean.",
+    "ru_term": "Ноль отходов",
+    "ru_definition": "Ноль отходов (Zero waste) — экологическое движение и жизненная философия, направленная на сведение к минимуму количества отходов путём разумного потребления, повторного использования вещей, ремонта и переработки. Цель — чтобы ни один мусор не попадал на свалку или мусоросжигательный завод.",
+    "uz_term": "Nol chiqindi",
+    "uz_definition": "Nol chiqindi (Zero waste) — chiqindilarning hosil bo'lishini butunlay oldini olishga yoki ularni eng minimal darajaga tushirishga qaratilgan ekologik falsafa va turmush tarzi. Bu konsepsiya barcha mahsulotlarning qayta ishlanishi, qayta foydalanilishi yoki kompost qilinishini qo'llab-quvvatlaydi, natijada chiqindixonaga hech narsa tashlanmaydi.",
+    "qq_term": "Nol qaldıq",
+    "qq_definition": "Nol qaldıq — qaldıqlardıń payda bolıwın ulıwma boldırmawǵa yamasa olardı eń tómengi dárejege túsiriwge qaratılǵan ekologiyalıq filosofiya hám turmıs tárizi. Bul koncepciya islep shıǵarılǵan barlıq zatlardıń qayta isleniwin, remontlanıwın yamasa kompost etiliwin qollap-quwatlaydı, nátiyjede hesh qanday qaldıq poligonlarǵa taslanbaydı hám órtep jiberilmeydi."
+  },
+  {
+    "en_term": "Circular economy",
+    "en_definition": "Circular economy — an economic system based on the reuse and regeneration of materials or products, especially as a way of continuing production in a sustainable or environmentally friendly way. It designs out waste and pollution.",
+    "ru_term": "Циркулярная экономика",
+    "ru_definition": "Циркулярная экономика (экономика замкнутого цикла) — экономическая модель, основанная на возобновлении ресурсов, переработке отходов и бережном потреблении. В отличие от линейной модели ('взял, сделал, выбросил'), она направлена на то, чтобы вещи служили максимально долго и полностью перерабатывались.",
+    "uz_term": "Sirkulyar iqtisodiyot",
+    "uz_definition": "Sirkulyar iqtisodiyot (Doiraviy iqtisodiyot) — chiqindilarni nolga tushirish va resurslardan cheksiz qayta foydalanishga asoslangan iqtisodiy model. Unda mahsulotlar ishlab chiqarish bosqichidanoq oson ta'mirlanadigan va to'liq qayta ishlanadigan qilib loyihalanadi.",
+    "qq_term": "Cirkulyar ekonomika",
+    "qq_definition": "Cirkulyar ekonomika (Aylanba ekonomika) — tábiyiy resurslardan qayta-qayta paydalanıwǵa tiykarlanǵan ekonomikalıq model. Bul modelde ónimler baslanǵıs dáwirden-aq qaldıqsız, uzaqqa shıdaytuǵın, ańsat remontlanatuǵın hám isletilip bolınǵan soń tolıq qayta isleniwge jaramlı etip joybarlastırıladı."
+  },
+  {
+    "en_term": "Ecosystem services",
+    "en_definition": "Ecosystem services — the many and varied benefits that humans freely gain from the natural environment and from properly-functioning ecosystems, such as clean drinking water, waste decomposition, and crop pollination.",
+    "ru_term": "Экосистемные услуги",
+    "ru_definition": "Экосистемные услуги — все выгоды и блага, которые человечество получает от природы совершенно бесплатно в результате естественного функционирования экосистем (например, очищение воды болотами, опыление растений насекомыми, защита от эрозии корнями деревьев).",
+    "uz_term": "Ekotizim xizmatlari",
+    "uz_definition": "Ekotizim xizmatlari — tabiiy ekotizimlarning insoniyat farovonligi va hayoti uchun mutlaqo bepul taqdim etadigan barcha foydali imkoniyatlari va ne'matlari. Masalan, o'simliklarning kislorod ishlab chiqarishi yoki hasharotlarning ekinlarni changlatishi.",
+    "qq_term": "Ekosistema xızmetleri",
+    "qq_definition": "Ekosistema xızmetleri — tábiyiy ekosistemalardıń insan balasına hám unıń iskerligine biyparsa (tegin) beretuǵın barlıq paydalı baylıqları hám qolaylıqları. Mısalı: hárrelerdiń ósimliklerdi shańlatıwı, togʻaylardıń hawanı tazalawı, dáryalardıń dushshı suw berishi."
+  }
+]

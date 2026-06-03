@@ -1,344 +1,382 @@
 import os
-from aiohttp import web
+import json
 import asyncio
-from aiogram import Bot, Dispatcher, F
-from aiogram.filters import CommandStart
-from aiogram.types import (
-    Message,
-    ReplyKeyboardMarkup,
-    KeyboardButton,
-)
+from collections import defaultdict, deque
+from pathlib import Path
+from aiohttp import web
 
+from aiogram import Bot, Dispatcher, F
+from aiogram.filters import CommandStart, Command
+from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
+from aiogram.client.default import DefaultBotProperties
+from aiogram.enums import ParseMode
+
+
+# ================== НАСТРОЙКИ ==================
 TOKEN = os.getenv("BOT_TOKEN")
 
-bot = Bot(token=TOKEN)
+if not TOKEN:
+    raise RuntimeError(
+        "BOT_TOKEN не найден. Добавьте переменную BOT_TOKEN в Render "
+        "или укажите токен в переменных окружения."
+    )
+
+bot = Bot(
+    token=TOKEN,
+    default=DefaultBotProperties(parse_mode=ParseMode.HTML)
+)
 dp = Dispatcher()
+
+BASE_DIR = Path(__file__).resolve().parent
+TERMS_FILE = BASE_DIR / "terms.json"
 
 # Хранение выбранного языка пользователя
 user_lang = {}
 
-# База терминов
-terms = [
-    {
-        "ru_term": "экология",
-        "en_term": "ecology",
-        "uz_term": "ekologiya",
-        "qq_term": "ekologiya",
-        "ru_def": "Наука о взаимодействии организмов с окружающей средой.",
-        "en_def": "Science of interactions between organisms and the environment.",
-        "uz_def": "Organizmlar va atrof-muhit o‘rtasidagi o‘zaro ta’sirni o‘rganuvchi fan.",
-        "qq_def": "Organizmler menen qorshaǵan ortalıq arasındaǵı ózara tásirdi úyrenetuǵın pán.",
-    },
-    {
-        "ru_term": "биосфера",
-        "en_term": "biosphere",
-        "uz_term": "biosfera",
-        "qq_term": "biosfera",
-        "ru_def": "Оболочка Земли, заселённая живыми организмами.",
-        "en_def": "The Earth's shell inhabited by living organisms.",
-        "uz_def": "Yerning tirik organizmlar yashaydigan qatlami.",
-        "qq_def": "Jerdiń tiri organizmler jasaytuǵın qabatı.",
-    },
-    {
-        "ru_term": "экосистема",
-        "en_term": "ecosystem",
-        "uz_term": "ekotizim",
-        "qq_term": "ekosistema",
-        "ru_def": "Совокупность живых организмов и среды их обитания.",
-        "en_def": "A community of living organisms and their environment.",
-        "uz_def": "Tirik organizmlar va ularning yashash muhiti majmui.",
-        "qq_def": "Tiri organizmler hám olar jasaytuǵın ortalıq jıyındısı.",
-    },
-    {
-        "ru_term": "загрязнение",
-        "en_term": "pollution",
-        "uz_term": "ifloslanish",
-        "qq_term": "pataslanıw",
-        "ru_def": "Негативное изменение окружающей среды под воздействием человека.",
-        "en_def": "A harmful change in the environment caused by human activity.",
-        "uz_def": "Atrof-muhitning inson faoliyati natijasida salbiy o‘zgarishi.",
-        "qq_def": "Adam iskerligi nátiyjesinde qorshaǵan ortalıqtıń keri ózgerisi.",
-    },
-    {
-        "ru_term": "климат",
-        "en_term": "climate",
-        "uz_term": "iqlim",
-        "qq_term": "klimat",
-        "ru_def": "Многолетний режим погоды на определённой территории.",
-        "en_def": "The long-term pattern of weather in a particular area.",
-        "uz_def": "Muayyan hududdagi ko‘p yillik ob-havo rejimi.",
-        "qq_def": "Belgili bir aymaqtaǵı uzaq múddetli hawa rayı rejimi.",
-    },
-]
+# История поиска пользователя
+history = defaultdict(lambda: deque(maxlen=5))
 
-# Клавиатура выбора языка
-lang_keyboard = ReplyKeyboardMarkup(
-    keyboard=[
-        [KeyboardButton(text="RUS 🇷🇺"), KeyboardButton(text="ENG 🇬🇧")],
-        [KeyboardButton(text="UZB 🇺🇿"), KeyboardButton(text="QQ 🌐")],
-    ],
-    resize_keyboard=True,
-    input_field_placeholder="Tildi tańlań / Choose language",
-)
 
-# Основная клавиатура
-main_keyboard = ReplyKeyboardMarkup(
-    keyboard=[
-        [KeyboardButton(text="🔎 Termindi tabıw")],
-        [KeyboardButton(text="📚 Terminler dizimi"), KeyboardButton(text="🌐 Tildi ózgertiw")],
-        [KeyboardButton(text="ℹ️ Járdem")],
-    ],
-    resize_keyboard=True,
-    input_field_placeholder="Ekologiyalıq termindi kiritiń...",
-)
+# ================== ЗАГРУЗКА ТЕРМИНОВ ==================
+def load_terms():
+    with open(TERMS_FILE, "r", encoding="utf-8") as file:
+        return json.load(file)
 
+
+terms = load_terms()
+
+
+# ================== ТЕКСТЫ И КНОПКИ ==================
 LANG_TEXTS = {
     "qq": {
         "welcome": "🌿 <b>Ekologiyalıq atamalar maǵlıwmatnamasına xosh kelipsiz!</b>\n\nInterfeys tilin saylań:",
-        "lang_selected": "✅ Til saylandı: <b>Qaraqalpaq</b>\n\nEndi ekologiyalıq atamanı kirgiziń.",
-        "search_prompt": "🔎 Ekologiyalıq atamanı kirgiziń.",
+        "selected": "✅ Til saylandı: <b>Qaraqalpaq</b>\n\nEndi ekologiyalıq atamanı kirgiziń.",
+        "search": "🔎 Ekologiyalıq atamanı kirgiziń.",
+        "list": "📚 Atamalar dizimi",
+        "history": "🕘 Izlew tariyxı",
         "help": (
             "ℹ️ <b>Botтан paydalanıw tártibi:</b>\n\n"
-            "1. Interfeys tilin tańlań.\n"
-            "2. Atamanı rus, ingliz, ózbek yamasa qaraqalpaq tilinde kirgiziń.\n"
-            "3. Bot atamanı tawıp, saylanǵan tilde anıqlamasın kórsetedi.\n\n"
-            "Menyu túymeleri:\n"
-            "🔎 Atamanı izlew\n"
-            "📚 Atamalar dizimi\n"
-            "🌐 Tildi ózgertiw"
+            "Atamanı rus, ingliz, ózbek yamasa qaraqalpaq tilinde kirgiziń. "
+            "Bot atamanı tawıp, saylanǵan tilde anıqlamasın kórsetedi.\n\n"
+            "Túymeler: izlew, atamalar dizimi, tariyx, járdem, tildi ózgertiw."
         ),
-        "term_list_title": "📚 <b>Bar atamalar:</b>\n\n",
-        "term_label": "🌿 <b>Atama:</b>\n",
-        "def_label": "📘 <b>Anıqlama:</b>\n",
         "not_found": "❌ <b>Atama tabılmadı.</b>\n\nJazılıwın tekseriń yamasa atamalar dizimin ashıń.",
-        "choose_lang": "🌐 Aldın tildi saylań.",
+        "choose": "🌐 Aldın tildi saylań.",
+        "term_label": "🌿 <b>Atama:</b>",
+        "def_label": "📘 <b>Anıqlama:</b>",
+        "empty_history": "🕘 Izlew tariyxı bos.",
+        "restart": "🔄 Bot qaytadan baslandı. Tildi saylań:",
     },
     "ru": {
         "welcome": "🌿 <b>Добро пожаловать в справочник экологических терминов!</b>\n\nВыберите язык интерфейса:",
-        "lang_selected": "✅ Язык выбран: <b>Русский</b>\n\nТеперь введите экологический термин.",
-        "search_prompt": "🔎 Введите экологический термин.",
+        "selected": "✅ Язык выбран: <b>Русский</b>\n\nТеперь введите экологический термин.",
+        "search": "🔎 Введите экологический термин.",
+        "list": "📚 Список терминов",
+        "history": "🕘 История поиска",
         "help": (
             "ℹ️ <b>Как пользоваться ботом:</b>\n\n"
-            "1. Выберите язык интерфейса.\n"
-            "2. Введите термин на русском, английском, узбекском или каракалпакском языке.\n"
-            "3. Бот найдёт термин и покажет определение на выбранном языке.\n\n"
-            "Доступные команды меню:\n"
-            "🔎 Найти термин\n"
-            "📚 Список терминов\n"
-            "🌐 Сменить язык"
+            "Введите термин на русском, английском, узбекском или каракалпакском языке. "
+            "Бот найдёт термин и покажет определение на выбранном языке.\n\n"
+            "Кнопки меню: поиск, список терминов, история, помощь, смена языка."
         ),
-        "term_list_title": "📚 <b>Доступные термины:</b>\n\n",
-        "term_label": "🌿 <b>Термин:</b>\n",
-        "def_label": "📘 <b>Определение:</b>\n",
         "not_found": "❌ <b>Термин не найден.</b>\n\nПроверьте написание или откройте список терминов.",
-        "choose_lang": "🌐 Пожалуйста, сначала выберите язык.",
+        "choose": "🌐 Пожалуйста, сначала выберите язык.",
+        "term_label": "🌿 <b>Термин:</b>",
+        "def_label": "📘 <b>Определение:</b>",
+        "empty_history": "🕘 История поиска пуста.",
+        "restart": "🔄 Бот перезапущен. Выберите язык:",
     },
     "en": {
         "welcome": "🌿 <b>Welcome to the ecological terms directory!</b>\n\nChoose the interface language:",
-        "lang_selected": "✅ Language selected: <b>English</b>\n\nNow enter an ecological term.",
-        "search_prompt": "🔎 Enter an ecological term.",
+        "selected": "✅ Language selected: <b>English</b>\n\nNow enter an ecological term.",
+        "search": "🔎 Enter an ecological term.",
+        "list": "📚 Term list",
+        "history": "🕘 Search history",
         "help": (
             "ℹ️ <b>How to use the bot:</b>\n\n"
-            "1. Choose the interface language.\n"
-            "2. Enter a term in Russian, English, Uzbek or Karakalpak.\n"
-            "3. The bot will find the term and show the definition in the selected language.\n\n"
-            "Available menu buttons:\n"
-            "🔎 Find term\n"
-            "📚 Term list\n"
-            "🌐 Change language"
+            "Enter a term in Russian, English, Uzbek or Karakalpak. "
+            "The bot will find the term and show the definition in the selected language."
         ),
-        "term_list_title": "📚 <b>Available terms:</b>\n\n",
-        "term_label": "🌿 <b>Term:</b>\n",
-        "def_label": "📘 <b>Definition:</b>\n",
         "not_found": "❌ <b>Term not found.</b>\n\nCheck the spelling or open the term list.",
-        "choose_lang": "🌐 Please choose a language first.",
+        "choose": "🌐 Please choose a language first.",
+        "term_label": "🌿 <b>Term:</b>",
+        "def_label": "📘 <b>Definition:</b>",
+        "empty_history": "🕘 Search history is empty.",
+        "restart": "🔄 Bot restarted. Choose language:",
     },
     "uz": {
         "welcome": "🌿 <b>Ekologik atamalar ma'lumotnomasiga xush kelibsiz!</b>\n\nInterfeys tilini tanlang:",
-        "lang_selected": "✅ Til tanlandi: <b>O‘zbek</b>\n\nEndi ekologik atamani kiriting.",
-        "search_prompt": "🔎 Ekologik atamani kiriting.",
+        "selected": "✅ Til tanlandi: <b>O‘zbek</b>\n\nEndi ekologik atamani kiriting.",
+        "search": "🔎 Ekologik atamani kiriting.",
+        "list": "📚 Atamalar ro‘yxati",
+        "history": "🕘 Qidiruv tarixi",
         "help": (
             "ℹ️ <b>Botdan foydalanish tartibi:</b>\n\n"
-            "1. Interfeys tilini tanlang.\n"
-            "2. Atamani rus, ingliz, o‘zbek yoki qoraqalpoq tilida kiriting.\n"
-            "3. Bot atamani topib, tanlangan tilda ta’rifini ko‘rsatadi.\n\n"
-            "Menyu tugmalari:\n"
-            "🔎 Atamani qidirish\n"
-            "📚 Atamalar ro‘yxati\n"
-            "🌐 Tilni almashtirish"
+            "Atamani rus, ingliz, o‘zbek yoki qoraqalpoq tilida kiriting. "
+            "Bot atamani topib, tanlangan tilda ta’rifini ko‘rsatadi."
         ),
-        "term_list_title": "📚 <b>Mavjud atamalar:</b>\n\n",
-        "term_label": "🌿 <b>Atama:</b>\n",
-        "def_label": "📘 <b>Ta’rif:</b>\n",
         "not_found": "❌ <b>Atama topilmadi.</b>\n\nImlo tekshiring yoki atamalar ro‘yxatini oching.",
-        "choose_lang": "🌐 Avval tilni tanlang.",
+        "choose": "🌐 Avval tilni tanlang.",
+        "term_label": "🌿 <b>Atama:</b>",
+        "def_label": "📘 <b>Ta’rif:</b>",
+        "empty_history": "🕘 Qidiruv tarixi bo‘sh.",
+        "restart": "🔄 Bot qayta boshlandi. Tilni tanlang:",
     },
 }
 
-BUTTON_LABELS = {
-    "ru": {"find": "🔎 Найти термин", "list": "📚 Список терминов", "lang": "🌐 Сменить язык", "help": "ℹ️ Помощь"},
-    "en": {"find": "🔎 Find term", "list": "📚 Term list", "lang": "🌐 Change language", "help": "ℹ️ Help"},
-    "uz": {"find": "🔎 Atamani qidirish", "list": "📚 Atamalar ro‘yxati", "lang": "🌐 Tilni almashtirish", "help": "ℹ️ Yordam"},
-    "qq": {"find": "🔎 Atamanı izlew", "list": "📚 Atamalar dizimi", "lang": "🌐 Tildi ózgertiw", "help": "ℹ️ Járdem"},
+LANG_BUTTONS = {
+    "RUS 🇷🇺": "ru",
+    "ENG 🇬🇧": "en",
+    "UZB 🇺🇿": "uz",
+    "QQ 🌐": "qq",
 }
 
-def get_lang(user_id: int) -> str:
-    return user_lang.get(user_id, "ru")
+BUTTON_LABELS = {
+    "ru": {
+        "find": "🔎 Найти термин",
+        "list": "📚 Список терминов",
+        "history": "🕘 История",
+        "lang": "🌐 Сменить язык",
+        "help": "ℹ️ Помощь",
+        "restart": "🔄 Перезапустить",
+    },
+    "en": {
+        "find": "🔎 Find term",
+        "list": "📚 Term list",
+        "history": "🕘 History",
+        "lang": "🌐 Change language",
+        "help": "ℹ️ Help",
+        "restart": "🔄 Restart",
+    },
+    "uz": {
+        "find": "🔎 Atamani qidirish",
+        "list": "📚 Atamalar ro‘yxati",
+        "history": "🕘 Tarix",
+        "lang": "🌐 Tilni almashtirish",
+        "help": "ℹ️ Yordam",
+        "restart": "🔄 Qayta boshlash",
+    },
+    "qq": {
+        "find": "🔎 Atamanı izlew",
+        "list": "📚 Atamalar dizimi",
+        "history": "🕘 Tariyx",
+        "lang": "🌐 Tildi ózgertiw",
+        "help": "ℹ️ Járdem",
+        "restart": "🔄 Qaytadan baslaw",
+    },
+}
 
-def get_main_keyboard(lang: str) -> ReplyKeyboardMarkup:
+
+def language_keyboard():
+    return ReplyKeyboardMarkup(
+        keyboard=[
+            [KeyboardButton(text="RUS 🇷🇺"), KeyboardButton(text="ENG 🇬🇧")],
+            [KeyboardButton(text="UZB 🇺🇿"), KeyboardButton(text="QQ 🌐")],
+        ],
+        resize_keyboard=True,
+        input_field_placeholder="Tildi tańlań / Choose language",
+    )
+
+
+def main_keyboard(lang: str):
     labels = BUTTON_LABELS[lang]
     return ReplyKeyboardMarkup(
         keyboard=[
             [KeyboardButton(text=labels["find"])],
-            [KeyboardButton(text=labels["list"]), KeyboardButton(text=labels["lang"])],
-            [KeyboardButton(text=labels["help"])],
+            [KeyboardButton(text=labels["list"]), KeyboardButton(text=labels["history"])],
+            [KeyboardButton(text=labels["lang"]), KeyboardButton(text=labels["help"])],
+            [KeyboardButton(text=labels["restart"])],
         ],
         resize_keyboard=True,
-        input_field_placeholder="Введите термин..." if lang == "ru" else "Enter term...",
+        input_field_placeholder="Ekologiyalıq termindi kiritiń...",
     )
 
+
+# ================== ПОИСК ==================
 def normalize(text: str) -> str:
     return " ".join(text.strip().lower().split())
 
+
 def find_term(query: str):
-    text = normalize(query)
+    q = normalize(query)
     for term in terms:
         variants = [
-            normalize(term["ru_term"]),
-            normalize(term["en_term"]),
-            normalize(term["uz_term"]),
-            normalize(term["qq_term"]),
+            normalize(term.get("ru_term", "")),
+            normalize(term.get("en_term", "")),
+            normalize(term.get("uz_term", "")),
+            normalize(term.get("qq_term", "")),
         ]
-        if text in variants:
+        if q in variants:
             return term
     return None
 
-def format_term_single_lang(term: dict, lang: str, texts: dict) -> str:
+
+def format_term(term: dict, lang: str) -> str:
+    texts = LANG_TEXTS[lang]
     term_key = f"{lang}_term"
-    def_key = f"{lang}_def"
+    def_key = f"{lang}_definition"
+
     return (
-        f"{texts['term_label']}{term[term_key]}\n\n"
-        f"{texts['def_label']}{term[def_key]}"
+        f"{texts['term_label']} {term.get(term_key, '—')}\n\n"
+        f"{texts['def_label']}\n{term.get(def_key, '—')}"
     )
 
-def format_term_list(lang: str, texts: dict) -> str:
-    lines = [texts["term_list_title"]]
+
+def format_terms_list(lang: str) -> str:
+    term_key = f"{lang}_term"
+    lines = [f"📚 <b>{LANG_TEXTS[lang]['list']}</b>\n"]
+
     for i, term in enumerate(terms, start=1):
-        lines.append(f"<b>{i}.</b> {term[f'{lang}_term']}")
+        lines.append(f"{i}. {term.get(term_key, '—')}")
+
+    text = "\n".join(lines)
+
+    # Telegram message limit protection
+    if len(text) > 3900:
+        text = text[:3900] + "\n\n..."
+    return text
+
+
+def format_history(user_id: int, lang: str) -> str:
+    if not history[user_id]:
+        return LANG_TEXTS[lang]["empty_history"]
+
+    lines = [f"🕘 <b>{LANG_TEXTS[lang]['history']}</b>\n"]
+    for i, item in enumerate(reversed(history[user_id]), start=1):
+        lines.append(f"{i}. <code>{item}</code>")
     return "\n".join(lines)
 
+
+# ================== HANDLERS ==================
 @dp.message(CommandStart())
 async def start_handler(message: Message):
     await message.answer(
         LANG_TEXTS["qq"]["welcome"],
-        parse_mode="HTML",
-        reply_markup=lang_keyboard,
+        reply_markup=language_keyboard(),
     )
 
-@dp.message(F.text.in_(["RUS 🇷🇺", "ENG 🇬🇧", "UZB 🇺🇿", "QQ 🌐"]))
-async def set_language_handler(message: Message):
-    selected = message.text
 
-    if selected == "RUS 🇷🇺":
-        lang = "ru"
-    elif selected == "ENG 🇬🇧":
-        lang = "en"
-    elif selected == "UZB 🇺🇿":
-        lang = "uz"
-    else:
-        lang = "qq"
+@dp.message(Command("restart"))
+async def restart_command(message: Message):
+    user_id = message.from_user.id
+    user_lang.pop(user_id, None)
+    history[user_id].clear()
+    await message.answer(
+        LANG_TEXTS["qq"]["restart"],
+        reply_markup=language_keyboard(),
+    )
 
-    user_lang[message.from_user.id] = lang
-    texts = LANG_TEXTS[lang]
+
+@dp.message(F.text.in_(list(LANG_BUTTONS.keys())))
+async def set_language(message: Message):
+    user_id = message.from_user.id
+    lang = LANG_BUTTONS[message.text]
+    user_lang[user_id] = lang
 
     await message.answer(
-        texts["lang_selected"],
-        parse_mode="HTML",
-        reply_markup=get_main_keyboard(lang),
+        LANG_TEXTS[lang]["selected"],
+        reply_markup=main_keyboard(lang),
     )
+
 
 @dp.message(F.text)
 async def text_handler(message: Message):
     user_id = message.from_user.id
-    text = message.text
+    text = message.text.strip()
     lang = user_lang.get(user_id)
 
     if not lang:
         await message.answer(
-            LANG_TEXTS["ru"]["choose_lang"],
-            parse_mode="HTML",
-            reply_markup=lang_keyboard,
+            LANG_TEXTS["qq"]["choose"],
+            reply_markup=language_keyboard(),
         )
         return
 
-    texts = LANG_TEXTS[lang]
     labels = BUTTON_LABELS[lang]
 
     if text == labels["find"]:
         await message.answer(
-            texts["search_prompt"],
-            parse_mode="HTML",
-            reply_markup=get_main_keyboard(lang),
+            LANG_TEXTS[lang]["search"],
+            reply_markup=main_keyboard(lang),
         )
         return
 
     if text == labels["list"]:
         await message.answer(
-            format_term_list(lang, texts),
-            parse_mode="HTML",
-            reply_markup=get_main_keyboard(lang),
+            format_terms_list(lang),
+            reply_markup=main_keyboard(lang),
         )
         return
 
-    if text == labels["lang"]:
+    if text == labels["history"]:
         await message.answer(
-            "🌐 Tildi tańlań / Choose language:",
-            reply_markup=lang_keyboard,
+            format_history(user_id, lang),
+            reply_markup=main_keyboard(lang),
         )
         return
 
     if text == labels["help"]:
         await message.answer(
-            texts["help"],
-            parse_mode="HTML",
-            reply_markup=get_main_keyboard(lang),
+            LANG_TEXTS[lang]["help"],
+            reply_markup=main_keyboard(lang),
+        )
+        return
+
+    if text == labels["lang"]:
+        await message.answer(
+            LANG_TEXTS["qq"]["welcome"],
+            reply_markup=language_keyboard(),
+        )
+        return
+
+    if text == labels["restart"]:
+        user_lang.pop(user_id, None)
+        history[user_id].clear()
+        await message.answer(
+            LANG_TEXTS["qq"]["restart"],
+            reply_markup=language_keyboard(),
         )
         return
 
     result = find_term(text)
 
     if result:
+        history[user_id].append(text)
         await message.answer(
-            format_term_single_lang(result, lang, texts),
-            parse_mode="HTML",
-            reply_markup=get_main_keyboard(lang),
+            format_term(result, lang),
+            reply_markup=main_keyboard(lang),
         )
     else:
         await message.answer(
-            texts["not_found"],
-            parse_mode="HTML",
-            reply_markup=get_main_keyboard(lang),
+            LANG_TEXTS[lang]["not_found"],
+            reply_markup=main_keyboard(lang),
         )
 
+
+# ================== WEB SERVER FOR RENDER ==================
 async def handle(request):
     return web.Response(text="Bot is running!")
 
+
 async def start_web_server():
     app = web.Application()
-    app.router.add_get('/', handle)
-
+    app.router.add_get("/", handle)
     runner = web.AppRunner(app)
     await runner.setup()
 
-    site = web.TCPSite(runner, '0.0.0.0', 10000)
+    port = int(os.environ.get("PORT", 10000))
+    site = web.TCPSite(runner, "0.0.0.0", port)
     await site.start()
-    
-async def main():
-    await start_web_server()   # <-- ДОБАВИТЬ
 
+
+async def main():
     print("BOT ISKE TÚSTI")
 
+    await start_web_server()
+
+    await bot.delete_webhook(drop_pending_updates=True)
     await dp.start_polling(bot)
+
 
 if __name__ == "__main__":
     asyncio.run(main())
