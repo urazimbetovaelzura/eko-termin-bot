@@ -55,7 +55,7 @@ LANG_TEXTS = {
         "list": "📚 Atamalar dizimi",
         "history": "🕘 Izlew tariyxı",
         "help": (
-            "ℹ️ <b>Botтан paydalanıw tártibi:</b>\n\n"
+            "ℹ️ <b>Bottan paydalanıw tártibi:</b>\n\n"
             "Atamanı rus, ingliz, ózbek yamasa qaraqalpaq tilinde kirgiziń. "
             "Bot atamanı tawıp, saylanǵan tilde anıqlamasın kórsetedi.\n\n"
             "Túymeler: izlew, atamalar dizimi, tariyx, járdem, tildi ózgertiw."
