@@ -230,12 +230,25 @@ def format_term(term: dict, lang: str) -> str:
     )
 
 
-def format_terms_list(lang: str) -> str:
+def format_terms_list(lang: str):
     term_key = f"{lang}_term"
+
+    sorted_terms = sorted(
+        terms,
+        key=lambda x: x.get(term_key, "").lower()
+    )
+
     lines = [f"📚 <b>{LANG_TEXTS[lang]['list']}</b>\n"]
 
-    for i, term in enumerate(terms, start=1):
+    for i, term in enumerate(sorted_terms, start=1):
         lines.append(f"{i}. {term.get(term_key, '—')}")
+
+    text = "\n".join(lines)
+
+    if len(text) > 3900:
+        text = text[:3900] + "\n\n..."
+
+    return text
 
     text = "\n".join(lines)
 
