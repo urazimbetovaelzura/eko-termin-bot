@@ -194,11 +194,15 @@ def main_keyboard(lang: str):
 
 # ================== ПОИСК ==================
 def normalize(text: str) -> str:
-    return " ".join(text.strip().lower().split())
+    text = text.strip().lower()
+    text = " ".join(text.split())
+    return text
 
 
 def find_term(query: str):
     q = normalize(query)
+    q_no_space = q.replace(" ", "")
+
     for term in terms:
         variants = [
             normalize(term.get("ru_term", "")),
@@ -206,8 +210,12 @@ def find_term(query: str):
             normalize(term.get("uz_term", "")),
             normalize(term.get("qq_term", "")),
         ]
-        if q in variants:
+
+        variants_no_space = [v.replace(" ", "") for v in variants]
+
+        if q in variants or q_no_space in variants_no_space:
             return term
+
     return None
 
 
