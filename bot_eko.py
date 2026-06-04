@@ -166,6 +166,14 @@ BUTTON_LABELS = {
     },
 }
 
+def start_keyboard():
+    return ReplyKeyboardMarkup(
+        keyboard=[
+            [KeyboardButton(text="🚀 BASLAW")]
+        ],
+        resize_keyboard=True,
+        input_field_placeholder="Baslaw ushın túymeni basıń",
+    )
 
 def language_keyboard():
     return ReplyKeyboardMarkup(
@@ -272,10 +280,16 @@ def format_history(user_id: int, lang: str) -> str:
 @dp.message(CommandStart())
 async def start_handler(message: Message):
     await message.answer(
+        "🌿 <b>EKO TERMIN</b>\n\nBottan paydalanıwdı baslaw ushın túymeni basıń.",
+        reply_markup=start_keyboard(),
+    )
+
+@dp.message(F.text == "🚀 BASLAW")
+async def baslaw_handler(message: Message):
+    await message.answer(
         LANG_TEXTS["qq"]["welcome"],
         reply_markup=language_keyboard(),
     )
-
 
 @dp.message(Command("restart"))
 async def restart_command(message: Message):
